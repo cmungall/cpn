@@ -1,0 +1,1092 @@
+format-version: 1.2
+remark: Includes Ontology(OntologyID(OntologyIRI(<http://purl.obolibrary.org/obo/TEMP>))) [Axioms: 16 Logical Axioms: 0]
+ontology: upheno/neoplasm
+
+[Term]
+id: UPHENO:CL0000015-MPATH218
+name: male germ cell neoplasm
+intersection_of: MPATH:218
+intersection_of: develops_from CL:0000015
+
+[Term]
+id: UPHENO:CL0000031-MPATH218
+name: neuroblast neoplasm
+intersection_of: MPATH:218
+intersection_of: develops_from CL:0000031
+
+[Term]
+id: UPHENO:CL0000034-MPATH218
+name: stem cell neoplasm
+intersection_of: MPATH:218
+intersection_of: develops_from CL:0000034
+
+[Term]
+id: UPHENO:CL0000037-MPATH218
+name: hematopoietic stem cell neoplasm
+intersection_of: MPATH:218
+intersection_of: develops_from CL:0000037
+
+[Term]
+id: UPHENO:CL0000056-MPATH218
+name: myoblast neoplasm
+intersection_of: MPATH:218
+intersection_of: develops_from CL:0000056
+
+[Term]
+id: UPHENO:CL0000057-MPATH218
+name: fibroblast neoplasm
+intersection_of: MPATH:218
+intersection_of: develops_from CL:0000057
+
+[Term]
+id: UPHENO:CL0000062-MPATH218
+name: osteoblast neoplasm
+intersection_of: MPATH:218
+intersection_of: develops_from CL:0000062
+
+[Term]
+id: UPHENO:CL0000066-MPATH218
+name: epithelial cell neoplasm
+intersection_of: MPATH:218
+intersection_of: develops_from CL:0000066
+
+[Term]
+id: UPHENO:CL0000084-MPATH218
+name: T cell neoplasm
+intersection_of: MPATH:218
+intersection_of: develops_from CL:0000084
+
+[Term]
+id: UPHENO:CL0000092-MPATH218
+name: osteoclast neoplasm
+intersection_of: MPATH:218
+intersection_of: develops_from CL:0000092
+
+[Term]
+id: UPHENO:CL0000097-MPATH218
+name: mast cell neoplasm
+intersection_of: MPATH:218
+intersection_of: develops_from CL:0000097
+
+[Term]
+id: UPHENO:CL0000115-MPATH218
+name: endothelial cell neoplasm
+intersection_of: MPATH:218
+intersection_of: develops_from CL:0000115
+
+[Term]
+id: UPHENO:CL0000125-MPATH218
+name: glial cell neoplasm
+intersection_of: MPATH:218
+intersection_of: develops_from CL:0000125
+
+[Term]
+id: UPHENO:CL0000136-MPATH218
+name: fat cell neoplasm
+intersection_of: MPATH:218
+intersection_of: develops_from CL:0000136
+
+[Term]
+id: UPHENO:CL0000169-MPATH218
+name: type B pancreatic cell neoplasm
+intersection_of: MPATH:218
+intersection_of: develops_from CL:0000169
+
+[Term]
+id: UPHENO:CL0000187-MPATH218
+name: muscle cell neoplasm
+intersection_of: MPATH:218
+intersection_of: develops_from CL:0000187
+
+[Term]
+id: UPHENO:CL0000188-MPATH218
+name: cell of skeletal muscle neoplasm
+intersection_of: MPATH:218
+intersection_of: develops_from CL:0000188
+
+[Term]
+id: UPHENO:CL0000192-MPATH218
+name: smooth muscle cell neoplasm
+intersection_of: MPATH:218
+intersection_of: develops_from CL:0000192
+
+[Term]
+id: UPHENO:CL0000216-MPATH218
+name: Sertoli cell neoplasm
+intersection_of: MPATH:218
+intersection_of: develops_from CL:0000216
+
+[Term]
+id: UPHENO:CL0000218-MPATH218
+name: myelinating Schwann cell neoplasm
+intersection_of: MPATH:218
+intersection_of: develops_from CL:0000218
+
+[Term]
+id: UPHENO:CL0000236-MPATH218
+name: B cell neoplasm
+intersection_of: MPATH:218
+intersection_of: develops_from CL:0000236
+
+[Term]
+id: UPHENO:CL0000312-MPATH218
+name: keratinocyte neoplasm
+intersection_of: MPATH:218
+intersection_of: develops_from CL:0000312
+
+[Term]
+id: UPHENO:CL0000317-MPATH218
+name: sebum secreting cell neoplasm
+intersection_of: MPATH:218
+intersection_of: develops_from CL:0000317
+
+[Term]
+id: UPHENO:CL0000359-MPATH218
+name: vascular associated smooth muscle cell neoplasm
+intersection_of: MPATH:218
+intersection_of: develops_from CL:0000359
+
+[Term]
+id: UPHENO:CL0000387-MPATH218
+name: hemocyte (sensu Nematoda and Protostomia) neoplasm
+intersection_of: MPATH:218
+intersection_of: develops_from CL:0000387
+
+[Term]
+id: UPHENO:CL0000448-MPATH218
+name: white fat cell neoplasm
+intersection_of: MPATH:218
+intersection_of: develops_from CL:0000448
+
+[Term]
+id: UPHENO:CL0000449-MPATH218
+name: brown fat cell neoplasm
+intersection_of: MPATH:218
+intersection_of: develops_from CL:0000449
+
+[Term]
+id: UPHENO:CL0000451-MPATH218
+name: dendritic cell neoplasm
+intersection_of: MPATH:218
+intersection_of: develops_from CL:0000451
+
+[Term]
+id: UPHENO:CL0000501-MPATH218
+name: granulosa cell neoplasm
+intersection_of: MPATH:218
+intersection_of: develops_from CL:0000501
+
+[Term]
+id: UPHENO:CL0000542-MPATH218
+name: lymphocyte neoplasm
+intersection_of: MPATH:218
+intersection_of: develops_from CL:0000542
+
+[Term]
+id: UPHENO:CL0000586-MPATH218
+name: germ cell neoplasm
+intersection_of: MPATH:218
+intersection_of: develops_from CL:0000586
+
+[Term]
+id: UPHENO:CL0000622-MPATH218
+name: acinar cell neoplasm
+intersection_of: MPATH:218
+intersection_of: develops_from CL:0000622
+
+[Term]
+id: UPHENO:CL0000623-MPATH218
+name: natural killer cell neoplasm
+intersection_of: MPATH:218
+intersection_of: develops_from CL:0000623
+
+[Term]
+id: UPHENO:CL0000624-MPATH218
+name: CD4-positive, alpha-beta T cell neoplasm
+intersection_of: MPATH:218
+intersection_of: develops_from CL:0000624
+
+[Term]
+id: UPHENO:CL0000625-MPATH218
+name: CD8-positive, alpha-beta T cell neoplasm
+intersection_of: MPATH:218
+intersection_of: develops_from CL:0000625
+
+[Term]
+id: UPHENO:CL0000731-MPATH218
+name: urothelial cell neoplasm
+intersection_of: MPATH:218
+intersection_of: develops_from CL:0000731
+
+[Term]
+id: UPHENO:CL0000737-MPATH218
+name: striated muscle cell neoplasm
+intersection_of: MPATH:218
+intersection_of: develops_from CL:0000737
+
+[Term]
+id: UPHENO:CL0000738-MPATH218
+name: leukocyte neoplasm
+intersection_of: MPATH:218
+intersection_of: develops_from CL:0000738
+
+[Term]
+id: UPHENO:CL0000746-MPATH218
+name: cardiac muscle cell neoplasm
+intersection_of: MPATH:218
+intersection_of: develops_from CL:0000746
+
+[Term]
+id: UPHENO:CL0000789-MPATH218
+name: alpha-beta T cell neoplasm
+intersection_of: MPATH:218
+intersection_of: develops_from CL:0000789
+
+[Term]
+id: UPHENO:CL0000798-MPATH218
+name: gamma-delta T cell neoplasm
+intersection_of: MPATH:218
+intersection_of: develops_from CL:0000798
+
+[Term]
+id: UPHENO:CL0000813-MPATH218
+name: memory T cell neoplasm
+intersection_of: MPATH:218
+intersection_of: develops_from CL:0000813
+
+[Term]
+id: UPHENO:CL0000814-MPATH218
+name: mature NK T cell neoplasm
+intersection_of: MPATH:218
+intersection_of: develops_from CL:0000814
+
+[Term]
+id: UPHENO:CL0000819-MPATH218
+name: B-1 B cell neoplasm
+intersection_of: MPATH:218
+intersection_of: develops_from CL:0000819
+
+[Term]
+id: UPHENO:CL0000842-MPATH218
+name: mononuclear cell neoplasm
+intersection_of: MPATH:218
+intersection_of: develops_from CL:0000842
+
+[Term]
+id: UPHENO:CL0000893-MPATH218
+name: thymocyte neoplasm
+intersection_of: MPATH:218
+intersection_of: develops_from CL:0000893
+
+[Term]
+id: UPHENO:CL0000896-MPATH218
+name: activated CD4-positive, alpha-beta T cell neoplasm
+intersection_of: MPATH:218
+intersection_of: develops_from CL:0000896
+
+[Term]
+id: UPHENO:CL0000906-MPATH218
+name: activated CD8-positive, alpha-beta T cell neoplasm
+intersection_of: MPATH:218
+intersection_of: develops_from CL:0000906
+
+[Term]
+id: UPHENO:CL0002410-MPATH218
+name: pancreatic stellate cell neoplasm
+intersection_of: MPATH:218
+intersection_of: develops_from CL:0002410
+
+[Term]
+id: UPHENO:CL0002420-MPATH218
+name: immature T cell neoplasm
+intersection_of: MPATH:218
+intersection_of: develops_from CL:0002420
+
+[Term]
+id: UPHENO:CL0002453-MPATH218
+name: oligodendrocyte precursor cell neoplasm
+intersection_of: MPATH:218
+intersection_of: develops_from CL:0002453
+
+[Term]
+id: UPHENO:CL0008016-MPATH218
+name: activated skeletal muscle satellite cell neoplasm
+intersection_of: MPATH:218
+intersection_of: develops_from CL:0008016
+
+[Term]
+id: UPHENO:CL0008019-MPATH218
+name: mesenchymal cell neoplasm
+intersection_of: MPATH:218
+intersection_of: develops_from CL:0008019
+
+[Term]
+id: UPHENO:CL1000274-MPATH218
+name: trophectodermal cell neoplasm
+intersection_of: MPATH:218
+intersection_of: develops_from CL:1000274
+
+[Term]
+id: UPHENO:CL1000488-MPATH218
+name: cholangiocyte neoplasm
+intersection_of: MPATH:218
+intersection_of: develops_from CL:1000488
+
+[Term]
+id: UPHENO:CL2000020-MPATH218
+name: inner cell mass native cell neoplasm
+intersection_of: MPATH:218
+intersection_of: develops_from CL:2000020
+
+[Term]
+id: UPHENO:GO0001777-PATO0000912
+name: T cell homeostatic proliferation increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0001777
+relationship: causes UPHENO:UPHENOCL0000084-MPATH218-PATO0000467 ! T cell neoplasm present
+
+[Term]
+id: UPHENO:GO0001787-PATO0000912
+name: natural killer cell proliferation increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0001787
+relationship: causes UPHENO:UPHENOCL0000623-MPATH218-PATO0000467 ! natural killer cell neoplasm present
+
+[Term]
+id: UPHENO:GO0001833-PATO0000912
+name: inner cell mass cell proliferation increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0001833
+relationship: causes UPHENO:UPHENOCL2000020-MPATH218-PATO0000467 ! inner cell mass native cell neoplasm present
+
+[Term]
+id: UPHENO:GO0001834-PATO0000912
+name: trophectodermal cell proliferation increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0001834
+relationship: causes UPHENO:UPHENOCL1000274-MPATH218-PATO0000467 ! trophectodermal cell neoplasm present
+
+[Term]
+id: UPHENO:GO0001866-PATO0000912
+name: NK T cell proliferation increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0001866
+relationship: causes UPHENO:UPHENOCL0000814-MPATH218-PATO0000467 ! mature NK T cell neoplasm present
+
+[Term]
+id: UPHENO:GO0001935-PATO0000912
+name: endothelial cell proliferation increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0001935
+relationship: causes UPHENO:UPHENOCL0000115-MPATH218-PATO0000467 ! endothelial cell neoplasm present
+
+[Term]
+id: UPHENO:GO0002158-PATO0000912
+name: osteoclast proliferation increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0002158
+relationship: causes UPHENO:UPHENOCL0000092-MPATH218-PATO0000467 ! osteoclast neoplasm present
+
+[Term]
+id: UPHENO:GO0002176-PATO0000912
+name: male germ cell proliferation increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0002176
+relationship: causes UPHENO:UPHENOCL0000015-MPATH218-PATO0000467 ! male germ cell neoplasm present
+
+[Term]
+id: UPHENO:GO0002358-PATO0000912
+name: B cell homeostatic proliferation increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0002358
+relationship: causes UPHENO:UPHENOCL0000236-MPATH218-PATO0000467 ! B cell neoplasm present
+
+[Term]
+id: UPHENO:GO0002359-PATO0000912
+name: B-1 B cell proliferation increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0002359
+relationship: causes UPHENO:UPHENOCL0000819-MPATH218-PATO0000467 ! B-1 B cell neoplasm present
+
+[Term]
+id: UPHENO:GO0007405-PATO0000912
+name: neuroblast proliferation increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0007405
+relationship: causes UPHENO:UPHENOCL0000031-MPATH218-PATO0000467 ! neuroblast neoplasm present
+
+[Term]
+id: UPHENO:GO0010463-PATO0000912
+name: mesenchymal cell proliferation increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0010463
+relationship: causes UPHENO:UPHENOCL0008019-MPATH218-PATO0000467 ! mesenchymal cell neoplasm present
+
+[Term]
+id: UPHENO:GO0014009-PATO0000912
+name: glial cell proliferation increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0014009
+relationship: causes UPHENO:UPHENOCL0000125-MPATH218-PATO0000467 ! glial cell neoplasm present
+
+[Term]
+id: UPHENO:GO0014010-PATO0000912
+name: Schwann cell proliferation increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0014010
+relationship: causes UPHENO:UPHENOCL0000218-MPATH218-PATO0000467 ! myelinating Schwann cell neoplasm present
+
+[Term]
+id: UPHENO:GO0014841-PATO0000912
+name: skeletal muscle satellite cell proliferation increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0014841
+relationship: causes UPHENO:UPHENOCL0008016-MPATH218-PATO0000467 ! activated skeletal muscle satellite cell neoplasm present
+
+[Term]
+id: UPHENO:GO0014855-PATO0000912
+name: striated muscle cell proliferation increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0014855
+relationship: causes UPHENO:UPHENOCL0000737-MPATH218-PATO0000467 ! striated muscle cell neoplasm present
+
+[Term]
+id: UPHENO:GO0014856-PATO0000912
+name: skeletal muscle cell proliferation increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0014856
+relationship: causes UPHENO:UPHENOCL0000188-MPATH218-PATO0000467 ! cell of skeletal muscle neoplasm present
+
+[Term]
+id: UPHENO:GO0032943-PATO0000912
+name: mononuclear cell proliferation increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0032943
+relationship: causes UPHENO:UPHENOCL0000842-MPATH218-PATO0000467 ! mononuclear cell neoplasm present
+
+[Term]
+id: UPHENO:GO0033002-PATO0000912
+name: muscle cell proliferation increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0033002
+relationship: causes UPHENO:UPHENOCL0000187-MPATH218-PATO0000467 ! muscle cell neoplasm present
+
+[Term]
+id: UPHENO:GO0033079-PATO0000912
+name: immature T cell proliferation increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0033079
+relationship: causes UPHENO:UPHENOCL0002420-MPATH218-PATO0000467 ! immature T cell neoplasm present
+
+[Term]
+id: UPHENO:GO0033080-PATO0000912
+name: immature T cell proliferation in thymus increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0033080
+relationship: causes UPHENO:UPHENOCL0000893-MPATH218-PATO0000467 ! thymocyte neoplasm present
+
+[Term]
+id: UPHENO:GO0033687-PATO0000912
+name: osteoblast proliferation increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0033687
+relationship: causes UPHENO:UPHENOCL0000062-MPATH218-PATO0000467 ! osteoblast neoplasm present
+
+[Term]
+id: UPHENO:GO0035172-PATO0000912
+name: hemocyte proliferation increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0035172
+relationship: causes UPHENO:UPHENOCL0000387-MPATH218-PATO0000467 ! hemocyte (sensu Nematoda and Protostomia) neoplasm present
+
+[Term]
+id: UPHENO:GO0035739-PATO0000912
+name: CD4-positive, alpha-beta T cell proliferation increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0035739
+relationship: causes UPHENO:UPHENOCL0000624-MPATH218-PATO0000467 ! CD4-positive, alpha-beta T cell neoplasm present
+
+[Term]
+id: UPHENO:GO0035740-PATO0000912
+name: CD8-positive, alpha-beta T cell proliferation increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0035740
+relationship: causes UPHENO:UPHENOCL0000625-MPATH218-PATO0000467 ! CD8-positive, alpha-beta T cell neoplasm present
+
+[Term]
+id: UPHENO:GO0035741-PATO0000912
+name: activated CD4-positive, alpha-beta T cell proliferation increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0035741
+relationship: causes UPHENO:UPHENOCL0000896-MPATH218-PATO0000467 ! activated CD4-positive, alpha-beta T cell neoplasm present
+
+[Term]
+id: UPHENO:GO0035742-PATO0000912
+name: activated CD8-positive, alpha-beta T cell proliferation increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0035742
+relationship: causes UPHENO:UPHENOCL0000906-MPATH218-PATO0000467 ! activated CD8-positive, alpha-beta T cell neoplasm present
+
+[Term]
+id: UPHENO:GO0036093-PATO0000912
+name: germ cell proliferation increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0036093
+relationship: causes UPHENO:UPHENOCL0000586-MPATH218-PATO0000467 ! germ cell neoplasm present
+
+[Term]
+id: UPHENO:GO0042098-PATO0000912
+name: T cell proliferation increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0042098
+relationship: causes UPHENO:UPHENOCL0000084-MPATH218-PATO0000467 ! T cell neoplasm present
+
+[Term]
+id: UPHENO:GO0042100-PATO0000912
+name: B cell proliferation increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0042100
+relationship: causes UPHENO:UPHENOCL0000236-MPATH218-PATO0000467 ! B cell neoplasm present
+
+[Term]
+id: UPHENO:GO0043616-PATO0000912
+name: keratinocyte proliferation increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0043616
+relationship: causes UPHENO:UPHENOCL0000312-MPATH218-PATO0000467 ! keratinocyte neoplasm present
+
+[Term]
+id: UPHENO:GO0044342-PATO0000912
+name: type B pancreatic cell proliferation increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0044342
+relationship: causes UPHENO:UPHENOCL0000169-MPATH218-PATO0000467 ! type B pancreatic cell neoplasm present
+
+[Term]
+id: UPHENO:GO0044565-PATO0000912
+name: dendritic cell proliferation increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0044565
+relationship: causes UPHENO:UPHENOCL0000451-MPATH218-PATO0000467 ! dendritic cell neoplasm present
+
+[Term]
+id: UPHENO:GO0046630-PATO0000912
+name: gamma-delta T cell proliferation increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0046630
+relationship: causes UPHENO:UPHENOCL0000798-MPATH218-PATO0000467 ! gamma-delta T cell neoplasm present
+
+[Term]
+id: UPHENO:GO0046633-PATO0000912
+name: alpha-beta T cell proliferation increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0046633
+relationship: causes UPHENO:UPHENOCL0000789-MPATH218-PATO0000467 ! alpha-beta T cell neoplasm present
+
+[Term]
+id: UPHENO:GO0046651-PATO0000912
+name: lymphocyte proliferation increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0046651
+relationship: causes UPHENO:UPHENOCL0000542-MPATH218-PATO0000467 ! lymphocyte neoplasm present
+
+[Term]
+id: UPHENO:GO0048144-PATO0000912
+name: fibroblast proliferation increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0048144
+relationship: causes UPHENO:UPHENOCL0000057-MPATH218-PATO0000467 ! fibroblast neoplasm present
+
+[Term]
+id: UPHENO:GO0048659-PATO0000912
+name: smooth muscle cell proliferation increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0048659
+relationship: causes UPHENO:UPHENOCL0000192-MPATH218-PATO0000467 ! smooth muscle cell neoplasm present
+
+[Term]
+id: UPHENO:GO0050673-PATO0000912
+name: epithelial cell proliferation increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0050673
+relationship: causes UPHENO:UPHENOCL0000066-MPATH218-PATO0000467 ! epithelial cell neoplasm present
+
+[Term]
+id: UPHENO:GO0050674-PATO0000912
+name: urothelial cell proliferation increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0050674
+relationship: causes UPHENO:UPHENOCL0000731-MPATH218-PATO0000467 ! urothelial cell neoplasm present
+
+[Term]
+id: UPHENO:GO0051450-PATO0000912
+name: myoblast proliferation increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0051450
+relationship: causes UPHENO:UPHENOCL0000056-MPATH218-PATO0000467 ! myoblast neoplasm present
+
+[Term]
+id: UPHENO:GO0060011-PATO0000912
+name: Sertoli cell proliferation increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0060011
+relationship: causes UPHENO:UPHENOCL0000216-MPATH218-PATO0000467 ! Sertoli cell neoplasm present
+
+[Term]
+id: UPHENO:GO0060038-PATO0000912
+name: cardiac muscle cell proliferation increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0060038
+relationship: causes UPHENO:UPHENOCL0000746-MPATH218-PATO0000467 ! cardiac muscle cell neoplasm present
+
+[Term]
+id: UPHENO:GO0061485-PATO0000912
+name: memory T cell proliferation increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0061485
+relationship: causes UPHENO:UPHENOCL0000813-MPATH218-PATO0000467 ! memory T cell neoplasm present
+
+[Term]
+id: UPHENO:GO0070341-PATO0000912
+name: fat cell proliferation increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0070341
+relationship: causes UPHENO:UPHENOCL0000136-MPATH218-PATO0000467 ! fat cell neoplasm present
+
+[Term]
+id: UPHENO:GO0070342-PATO0000912
+name: brown fat cell proliferation increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0070342
+relationship: causes UPHENO:UPHENOCL0000449-MPATH218-PATO0000467 ! brown fat cell neoplasm present
+
+[Term]
+id: UPHENO:GO0070343-PATO0000912
+name: white fat cell proliferation increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0070343
+relationship: causes UPHENO:UPHENOCL0000448-MPATH218-PATO0000467 ! white fat cell neoplasm present
+
+[Term]
+id: UPHENO:GO0070444-PATO0000912
+name: oligodendrocyte progenitor proliferation increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0070444
+relationship: causes UPHENO:UPHENOCL0002453-MPATH218-PATO0000467 ! oligodendrocyte precursor cell neoplasm present
+
+[Term]
+id: UPHENO:GO0070661-PATO0000912
+name: leukocyte proliferation increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0070661
+relationship: causes UPHENO:UPHENOCL0000738-MPATH218-PATO0000467 ! leukocyte neoplasm present
+
+[Term]
+id: UPHENO:GO0070662-PATO0000912
+name: mast cell proliferation increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0070662
+relationship: causes UPHENO:UPHENOCL0000097-MPATH218-PATO0000467 ! mast cell neoplasm present
+
+[Term]
+id: UPHENO:GO0071425-PATO0000912
+name: hematopoietic stem cell proliferation increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0071425
+relationship: causes UPHENO:UPHENOCL0000037-MPATH218-PATO0000467 ! hematopoietic stem cell neoplasm present
+
+[Term]
+id: UPHENO:GO0072089-PATO0000912
+name: stem cell proliferation increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0072089
+relationship: causes UPHENO:UPHENOCL0000034-MPATH218-PATO0000467 ! stem cell neoplasm present
+
+[Term]
+id: UPHENO:GO0072343-PATO0000912
+name: pancreatic stellate cell proliferation increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0072343
+relationship: causes UPHENO:UPHENOCL0002410-MPATH218-PATO0000467 ! pancreatic stellate cell neoplasm present
+
+[Term]
+id: UPHENO:GO1990654-PATO0000912
+name: sebum secreting cell proliferation increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:1990654
+relationship: causes UPHENO:UPHENOCL0000317-MPATH218-PATO0000467 ! sebum secreting cell neoplasm present
+
+[Term]
+id: UPHENO:GO1990705-PATO0000912
+name: cholangiocyte proliferation increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:1990705
+relationship: causes UPHENO:UPHENOCL1000488-MPATH218-PATO0000467 ! cholangiocyte neoplasm present
+
+[Term]
+id: UPHENO:GO1990739-PATO0000912
+name: granulosa cell proliferation increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:1990739
+relationship: causes UPHENO:UPHENOCL0000501-MPATH218-PATO0000467 ! granulosa cell neoplasm present
+
+[Term]
+id: UPHENO:GO1990863-PATO0000912
+name: acinar cell proliferation increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:1990863
+relationship: causes UPHENO:UPHENOCL0000622-MPATH218-PATO0000467 ! acinar cell neoplasm present
+
+[Term]
+id: UPHENO:GO1990874-PATO0000912
+name: vascular smooth muscle cell proliferation increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:1990874
+relationship: causes UPHENO:UPHENOCL0000359-MPATH218-PATO0000467 ! vascular associated smooth muscle cell neoplasm present
+
+[Term]
+id: UPHENO:UPHENOCL0000015-MPATH218-PATO0000467
+name: male germ cell neoplasm present
+intersection_of: PATO:0000467
+intersection_of: inheres_in UPHENO:CL0000015-MPATH218 ! male germ cell neoplasm
+
+[Term]
+id: UPHENO:UPHENOCL0000031-MPATH218-PATO0000467
+name: neuroblast neoplasm present
+intersection_of: PATO:0000467
+intersection_of: inheres_in UPHENO:CL0000031-MPATH218 ! neuroblast neoplasm
+
+[Term]
+id: UPHENO:UPHENOCL0000034-MPATH218-PATO0000467
+name: stem cell neoplasm present
+intersection_of: PATO:0000467
+intersection_of: inheres_in UPHENO:CL0000034-MPATH218 ! stem cell neoplasm
+
+[Term]
+id: UPHENO:UPHENOCL0000037-MPATH218-PATO0000467
+name: hematopoietic stem cell neoplasm present
+intersection_of: PATO:0000467
+intersection_of: inheres_in UPHENO:CL0000037-MPATH218 ! hematopoietic stem cell neoplasm
+
+[Term]
+id: UPHENO:UPHENOCL0000056-MPATH218-PATO0000467
+name: myoblast neoplasm present
+intersection_of: PATO:0000467
+intersection_of: inheres_in UPHENO:CL0000056-MPATH218 ! myoblast neoplasm
+
+[Term]
+id: UPHENO:UPHENOCL0000057-MPATH218-PATO0000467
+name: fibroblast neoplasm present
+intersection_of: PATO:0000467
+intersection_of: inheres_in UPHENO:CL0000057-MPATH218 ! fibroblast neoplasm
+
+[Term]
+id: UPHENO:UPHENOCL0000062-MPATH218-PATO0000467
+name: osteoblast neoplasm present
+intersection_of: PATO:0000467
+intersection_of: inheres_in UPHENO:CL0000062-MPATH218 ! osteoblast neoplasm
+
+[Term]
+id: UPHENO:UPHENOCL0000066-MPATH218-PATO0000467
+name: epithelial cell neoplasm present
+intersection_of: PATO:0000467
+intersection_of: inheres_in UPHENO:CL0000066-MPATH218 ! epithelial cell neoplasm
+
+[Term]
+id: UPHENO:UPHENOCL0000084-MPATH218-PATO0000467
+name: T cell neoplasm present
+intersection_of: PATO:0000467
+intersection_of: inheres_in UPHENO:CL0000084-MPATH218 ! T cell neoplasm
+
+[Term]
+id: UPHENO:UPHENOCL0000092-MPATH218-PATO0000467
+name: osteoclast neoplasm present
+intersection_of: PATO:0000467
+intersection_of: inheres_in UPHENO:CL0000092-MPATH218 ! osteoclast neoplasm
+
+[Term]
+id: UPHENO:UPHENOCL0000097-MPATH218-PATO0000467
+name: mast cell neoplasm present
+intersection_of: PATO:0000467
+intersection_of: inheres_in UPHENO:CL0000097-MPATH218 ! mast cell neoplasm
+
+[Term]
+id: UPHENO:UPHENOCL0000115-MPATH218-PATO0000467
+name: endothelial cell neoplasm present
+intersection_of: PATO:0000467
+intersection_of: inheres_in UPHENO:CL0000115-MPATH218 ! endothelial cell neoplasm
+
+[Term]
+id: UPHENO:UPHENOCL0000125-MPATH218-PATO0000467
+name: glial cell neoplasm present
+intersection_of: PATO:0000467
+intersection_of: inheres_in UPHENO:CL0000125-MPATH218 ! glial cell neoplasm
+
+[Term]
+id: UPHENO:UPHENOCL0000136-MPATH218-PATO0000467
+name: fat cell neoplasm present
+intersection_of: PATO:0000467
+intersection_of: inheres_in UPHENO:CL0000136-MPATH218 ! fat cell neoplasm
+
+[Term]
+id: UPHENO:UPHENOCL0000169-MPATH218-PATO0000467
+name: type B pancreatic cell neoplasm present
+intersection_of: PATO:0000467
+intersection_of: inheres_in UPHENO:CL0000169-MPATH218 ! type B pancreatic cell neoplasm
+
+[Term]
+id: UPHENO:UPHENOCL0000187-MPATH218-PATO0000467
+name: muscle cell neoplasm present
+intersection_of: PATO:0000467
+intersection_of: inheres_in UPHENO:CL0000187-MPATH218 ! muscle cell neoplasm
+
+[Term]
+id: UPHENO:UPHENOCL0000188-MPATH218-PATO0000467
+name: cell of skeletal muscle neoplasm present
+intersection_of: PATO:0000467
+intersection_of: inheres_in UPHENO:CL0000188-MPATH218 ! cell of skeletal muscle neoplasm
+
+[Term]
+id: UPHENO:UPHENOCL0000192-MPATH218-PATO0000467
+name: smooth muscle cell neoplasm present
+intersection_of: PATO:0000467
+intersection_of: inheres_in UPHENO:CL0000192-MPATH218 ! smooth muscle cell neoplasm
+
+[Term]
+id: UPHENO:UPHENOCL0000216-MPATH218-PATO0000467
+name: Sertoli cell neoplasm present
+intersection_of: PATO:0000467
+intersection_of: inheres_in UPHENO:CL0000216-MPATH218 ! Sertoli cell neoplasm
+
+[Term]
+id: UPHENO:UPHENOCL0000218-MPATH218-PATO0000467
+name: myelinating Schwann cell neoplasm present
+intersection_of: PATO:0000467
+intersection_of: inheres_in UPHENO:CL0000218-MPATH218 ! myelinating Schwann cell neoplasm
+
+[Term]
+id: UPHENO:UPHENOCL0000236-MPATH218-PATO0000467
+name: B cell neoplasm present
+intersection_of: PATO:0000467
+intersection_of: inheres_in UPHENO:CL0000236-MPATH218 ! B cell neoplasm
+
+[Term]
+id: UPHENO:UPHENOCL0000312-MPATH218-PATO0000467
+name: keratinocyte neoplasm present
+intersection_of: PATO:0000467
+intersection_of: inheres_in UPHENO:CL0000312-MPATH218 ! keratinocyte neoplasm
+
+[Term]
+id: UPHENO:UPHENOCL0000317-MPATH218-PATO0000467
+name: sebum secreting cell neoplasm present
+intersection_of: PATO:0000467
+intersection_of: inheres_in UPHENO:CL0000317-MPATH218 ! sebum secreting cell neoplasm
+
+[Term]
+id: UPHENO:UPHENOCL0000359-MPATH218-PATO0000467
+name: vascular associated smooth muscle cell neoplasm present
+intersection_of: PATO:0000467
+intersection_of: inheres_in UPHENO:CL0000359-MPATH218 ! vascular associated smooth muscle cell neoplasm
+
+[Term]
+id: UPHENO:UPHENOCL0000387-MPATH218-PATO0000467
+name: hemocyte (sensu Nematoda and Protostomia) neoplasm present
+intersection_of: PATO:0000467
+intersection_of: inheres_in UPHENO:CL0000387-MPATH218 ! hemocyte (sensu Nematoda and Protostomia) neoplasm
+
+[Term]
+id: UPHENO:UPHENOCL0000448-MPATH218-PATO0000467
+name: white fat cell neoplasm present
+intersection_of: PATO:0000467
+intersection_of: inheres_in UPHENO:CL0000448-MPATH218 ! white fat cell neoplasm
+
+[Term]
+id: UPHENO:UPHENOCL0000449-MPATH218-PATO0000467
+name: brown fat cell neoplasm present
+intersection_of: PATO:0000467
+intersection_of: inheres_in UPHENO:CL0000449-MPATH218 ! brown fat cell neoplasm
+
+[Term]
+id: UPHENO:UPHENOCL0000451-MPATH218-PATO0000467
+name: dendritic cell neoplasm present
+intersection_of: PATO:0000467
+intersection_of: inheres_in UPHENO:CL0000451-MPATH218 ! dendritic cell neoplasm
+
+[Term]
+id: UPHENO:UPHENOCL0000501-MPATH218-PATO0000467
+name: granulosa cell neoplasm present
+intersection_of: PATO:0000467
+intersection_of: inheres_in UPHENO:CL0000501-MPATH218 ! granulosa cell neoplasm
+
+[Term]
+id: UPHENO:UPHENOCL0000542-MPATH218-PATO0000467
+name: lymphocyte neoplasm present
+intersection_of: PATO:0000467
+intersection_of: inheres_in UPHENO:CL0000542-MPATH218 ! lymphocyte neoplasm
+
+[Term]
+id: UPHENO:UPHENOCL0000586-MPATH218-PATO0000467
+name: germ cell neoplasm present
+intersection_of: PATO:0000467
+intersection_of: inheres_in UPHENO:CL0000586-MPATH218 ! germ cell neoplasm
+
+[Term]
+id: UPHENO:UPHENOCL0000622-MPATH218-PATO0000467
+name: acinar cell neoplasm present
+intersection_of: PATO:0000467
+intersection_of: inheres_in UPHENO:CL0000622-MPATH218 ! acinar cell neoplasm
+
+[Term]
+id: UPHENO:UPHENOCL0000623-MPATH218-PATO0000467
+name: natural killer cell neoplasm present
+intersection_of: PATO:0000467
+intersection_of: inheres_in UPHENO:CL0000623-MPATH218 ! natural killer cell neoplasm
+
+[Term]
+id: UPHENO:UPHENOCL0000624-MPATH218-PATO0000467
+name: CD4-positive, alpha-beta T cell neoplasm present
+intersection_of: PATO:0000467
+intersection_of: inheres_in UPHENO:CL0000624-MPATH218 ! CD4-positive, alpha-beta T cell neoplasm
+
+[Term]
+id: UPHENO:UPHENOCL0000625-MPATH218-PATO0000467
+name: CD8-positive, alpha-beta T cell neoplasm present
+intersection_of: PATO:0000467
+intersection_of: inheres_in UPHENO:CL0000625-MPATH218 ! CD8-positive, alpha-beta T cell neoplasm
+
+[Term]
+id: UPHENO:UPHENOCL0000731-MPATH218-PATO0000467
+name: urothelial cell neoplasm present
+intersection_of: PATO:0000467
+intersection_of: inheres_in UPHENO:CL0000731-MPATH218 ! urothelial cell neoplasm
+
+[Term]
+id: UPHENO:UPHENOCL0000737-MPATH218-PATO0000467
+name: striated muscle cell neoplasm present
+intersection_of: PATO:0000467
+intersection_of: inheres_in UPHENO:CL0000737-MPATH218 ! striated muscle cell neoplasm
+
+[Term]
+id: UPHENO:UPHENOCL0000738-MPATH218-PATO0000467
+name: leukocyte neoplasm present
+intersection_of: PATO:0000467
+intersection_of: inheres_in UPHENO:CL0000738-MPATH218 ! leukocyte neoplasm
+
+[Term]
+id: UPHENO:UPHENOCL0000746-MPATH218-PATO0000467
+name: cardiac muscle cell neoplasm present
+intersection_of: PATO:0000467
+intersection_of: inheres_in UPHENO:CL0000746-MPATH218 ! cardiac muscle cell neoplasm
+
+[Term]
+id: UPHENO:UPHENOCL0000789-MPATH218-PATO0000467
+name: alpha-beta T cell neoplasm present
+intersection_of: PATO:0000467
+intersection_of: inheres_in UPHENO:CL0000789-MPATH218 ! alpha-beta T cell neoplasm
+
+[Term]
+id: UPHENO:UPHENOCL0000798-MPATH218-PATO0000467
+name: gamma-delta T cell neoplasm present
+intersection_of: PATO:0000467
+intersection_of: inheres_in UPHENO:CL0000798-MPATH218 ! gamma-delta T cell neoplasm
+
+[Term]
+id: UPHENO:UPHENOCL0000813-MPATH218-PATO0000467
+name: memory T cell neoplasm present
+intersection_of: PATO:0000467
+intersection_of: inheres_in UPHENO:CL0000813-MPATH218 ! memory T cell neoplasm
+
+[Term]
+id: UPHENO:UPHENOCL0000814-MPATH218-PATO0000467
+name: mature NK T cell neoplasm present
+intersection_of: PATO:0000467
+intersection_of: inheres_in UPHENO:CL0000814-MPATH218 ! mature NK T cell neoplasm
+
+[Term]
+id: UPHENO:UPHENOCL0000819-MPATH218-PATO0000467
+name: B-1 B cell neoplasm present
+intersection_of: PATO:0000467
+intersection_of: inheres_in UPHENO:CL0000819-MPATH218 ! B-1 B cell neoplasm
+
+[Term]
+id: UPHENO:UPHENOCL0000842-MPATH218-PATO0000467
+name: mononuclear cell neoplasm present
+intersection_of: PATO:0000467
+intersection_of: inheres_in UPHENO:CL0000842-MPATH218 ! mononuclear cell neoplasm
+
+[Term]
+id: UPHENO:UPHENOCL0000893-MPATH218-PATO0000467
+name: thymocyte neoplasm present
+intersection_of: PATO:0000467
+intersection_of: inheres_in UPHENO:CL0000893-MPATH218 ! thymocyte neoplasm
+
+[Term]
+id: UPHENO:UPHENOCL0000896-MPATH218-PATO0000467
+name: activated CD4-positive, alpha-beta T cell neoplasm present
+intersection_of: PATO:0000467
+intersection_of: inheres_in UPHENO:CL0000896-MPATH218 ! activated CD4-positive, alpha-beta T cell neoplasm
+
+[Term]
+id: UPHENO:UPHENOCL0000906-MPATH218-PATO0000467
+name: activated CD8-positive, alpha-beta T cell neoplasm present
+intersection_of: PATO:0000467
+intersection_of: inheres_in UPHENO:CL0000906-MPATH218 ! activated CD8-positive, alpha-beta T cell neoplasm
+
+[Term]
+id: UPHENO:UPHENOCL0002410-MPATH218-PATO0000467
+name: pancreatic stellate cell neoplasm present
+intersection_of: PATO:0000467
+intersection_of: inheres_in UPHENO:CL0002410-MPATH218 ! pancreatic stellate cell neoplasm
+
+[Term]
+id: UPHENO:UPHENOCL0002420-MPATH218-PATO0000467
+name: immature T cell neoplasm present
+intersection_of: PATO:0000467
+intersection_of: inheres_in UPHENO:CL0002420-MPATH218 ! immature T cell neoplasm
+
+[Term]
+id: UPHENO:UPHENOCL0002453-MPATH218-PATO0000467
+name: oligodendrocyte precursor cell neoplasm present
+intersection_of: PATO:0000467
+intersection_of: inheres_in UPHENO:CL0002453-MPATH218 ! oligodendrocyte precursor cell neoplasm
+
+[Term]
+id: UPHENO:UPHENOCL0008016-MPATH218-PATO0000467
+name: activated skeletal muscle satellite cell neoplasm present
+intersection_of: PATO:0000467
+intersection_of: inheres_in UPHENO:CL0008016-MPATH218 ! activated skeletal muscle satellite cell neoplasm
+
+[Term]
+id: UPHENO:UPHENOCL0008019-MPATH218-PATO0000467
+name: mesenchymal cell neoplasm present
+intersection_of: PATO:0000467
+intersection_of: inheres_in UPHENO:CL0008019-MPATH218 ! mesenchymal cell neoplasm
+
+[Term]
+id: UPHENO:UPHENOCL1000274-MPATH218-PATO0000467
+name: trophectodermal cell neoplasm present
+intersection_of: PATO:0000467
+intersection_of: inheres_in UPHENO:CL1000274-MPATH218 ! trophectodermal cell neoplasm
+
+[Term]
+id: UPHENO:UPHENOCL1000488-MPATH218-PATO0000467
+name: cholangiocyte neoplasm present
+intersection_of: PATO:0000467
+intersection_of: inheres_in UPHENO:CL1000488-MPATH218 ! cholangiocyte neoplasm
+
+[Term]
+id: UPHENO:UPHENOCL2000020-MPATH218-PATO0000467
+name: inner cell mass native cell neoplasm present
+intersection_of: PATO:0000467
+intersection_of: inheres_in UPHENO:CL2000020-MPATH218 ! inner cell mass native cell neoplasm
+
+[Typedef]
+id: causes
+name: causally upstream of or within
+xref: RO:0002418
+
+[Typedef]
+id: inheres_in
+name: inheres in
+xref: RO:0000052
+

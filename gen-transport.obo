@@ -1,0 +1,2768 @@
+format-version: 1.2
+remark: Includes Ontology(OntologyID(OntologyIRI(<http://purl.obolibrary.org/obo/TEMP>))) [Axioms: 16 Logical Axioms: 0]
+ontology: upheno/transport
+
+[Term]
+id: UPHENO:CL0000000-CHEBI39123
+name: cell calcium cation
+intersection_of: CHEBI:39123
+intersection_of: part_of CL:0000000
+
+[Term]
+id: UPHENO:CL0000182-CHEBI3098
+name: hepatocyte bile acid
+intersection_of: CHEBI:3098
+intersection_of: part_of CL:0000182
+
+[Term]
+id: UPHENO:GO0000054-PATO0000911
+name: ribosomal subunit export from nucleus decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:0000054
+
+[Term]
+id: UPHENO:GO0000054-PATO0000912
+name: ribosomal subunit export from nucleus increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0000054
+
+[Term]
+id: UPHENO:GO0000055-PATO0000911
+name: ribosomal large subunit export from nucleus decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:0000055
+
+[Term]
+id: UPHENO:GO0000055-PATO0000912
+name: ribosomal large subunit export from nucleus increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0000055
+
+[Term]
+id: UPHENO:GO0000056-PATO0000911
+name: ribosomal small subunit export from nucleus decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:0000056
+
+[Term]
+id: UPHENO:GO0000056-PATO0000912
+name: ribosomal small subunit export from nucleus increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0000056
+
+[Term]
+id: UPHENO:GO0001504-PATO0000911
+name: neurotransmitter uptake decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:0001504
+
+[Term]
+id: UPHENO:GO0001504-PATO0000912
+name: neurotransmitter uptake increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0001504
+
+[Term]
+id: UPHENO:GO0005622-CHEBI15355
+name: intracellular acetylcholine
+intersection_of: CHEBI:15355
+intersection_of: part_of GO:0005622
+
+[Term]
+id: UPHENO:GO0005622-CHEBI16189
+name: intracellular sulfate
+intersection_of: CHEBI:16189
+intersection_of: part_of GO:0005622
+
+[Term]
+id: UPHENO:GO0005622-CHEBI17268
+name: intracellular myo-inositol
+intersection_of: CHEBI:17268
+intersection_of: part_of GO:0005622
+
+[Term]
+id: UPHENO:GO0005622-CHEBI18019
+name: intracellular L-lysine
+intersection_of: CHEBI:18019
+intersection_of: part_of GO:0005622
+
+[Term]
+id: UPHENO:GO0005622-CHEBI18243
+name: intracellular dopamine
+intersection_of: CHEBI:18243
+intersection_of: part_of GO:0005622
+
+[Term]
+id: UPHENO:GO0005622-CHEBI18295
+name: intracellular histamine
+intersection_of: CHEBI:18295
+intersection_of: part_of GO:0005622
+
+[Term]
+id: UPHENO:GO0005622-CHEBI25516
+name: intracellular nickel cation
+intersection_of: CHEBI:25516
+intersection_of: part_of GO:0005622
+
+[Term]
+id: UPHENO:GO0005622-CHEBI29101
+name: intracellular sodium(1+)
+intersection_of: CHEBI:29101
+intersection_of: part_of GO:0005622
+
+[Term]
+id: UPHENO:GO0005622-CHEBI33567
+name: intracellular catecholamine
+intersection_of: CHEBI:33567
+intersection_of: part_of GO:0005622
+
+[Term]
+id: UPHENO:GO0005622-CHEBI33568
+name: intracellular adrenaline
+intersection_of: CHEBI:33568
+intersection_of: part_of GO:0005622
+
+[Term]
+id: UPHENO:GO0005622-CHEBI33569
+name: intracellular noradrenaline
+intersection_of: CHEBI:33569
+intersection_of: part_of GO:0005622
+
+[Term]
+id: UPHENO:GO0005622-CHEBI36914
+name: intracellular inorganic ion
+intersection_of: CHEBI:36914
+intersection_of: part_of GO:0005622
+
+[Term]
+id: UPHENO:GO0005623-CHEBI15428
+name: cell glycine
+intersection_of: CHEBI:15428
+intersection_of: part_of GO:0005623
+
+[Term]
+id: UPHENO:GO0005623-CHEBI15603
+name: cell L-leucine
+intersection_of: CHEBI:15603
+intersection_of: part_of GO:0005623
+
+[Term]
+id: UPHENO:GO0005623-CHEBI15729
+name: cell L-ornithine
+intersection_of: CHEBI:15729
+intersection_of: part_of GO:0005623
+
+[Term]
+id: UPHENO:GO0005623-CHEBI15971
+name: cell L-histidine
+intersection_of: CHEBI:15971
+intersection_of: part_of GO:0005623
+
+[Term]
+id: UPHENO:GO0005623-CHEBI16414
+name: cell L-valine
+intersection_of: CHEBI:16414
+intersection_of: part_of GO:0005623
+
+[Term]
+id: UPHENO:GO0005623-CHEBI16467
+name: cell L-arginine
+intersection_of: CHEBI:16467
+intersection_of: part_of GO:0005623
+
+[Term]
+id: UPHENO:GO0005623-CHEBI16643
+name: cell L-methionine
+intersection_of: CHEBI:16643
+intersection_of: part_of GO:0005623
+
+[Term]
+id: UPHENO:GO0005623-CHEBI16709
+name: cell pyridoxine
+intersection_of: CHEBI:16709
+intersection_of: part_of GO:0005623
+
+[Term]
+id: UPHENO:GO0005623-CHEBI16811
+name: cell methionine
+intersection_of: CHEBI:16811
+intersection_of: part_of GO:0005623
+
+[Term]
+id: UPHENO:GO0005623-CHEBI16856
+name: cell glutathione
+intersection_of: CHEBI:16856
+intersection_of: part_of GO:0005623
+
+[Term]
+id: UPHENO:GO0005623-CHEBI16857
+name: cell L-threonine
+intersection_of: CHEBI:16857
+intersection_of: part_of GO:0005623
+
+[Term]
+id: UPHENO:GO0005623-CHEBI17115
+name: cell L-serine
+intersection_of: CHEBI:17115
+intersection_of: part_of GO:0005623
+
+[Term]
+id: UPHENO:GO0005623-CHEBI17191
+name: cell L-isoleucine
+intersection_of: CHEBI:17191
+intersection_of: part_of GO:0005623
+
+[Term]
+id: UPHENO:GO0005623-CHEBI17196
+name: cell L-asparagine
+intersection_of: CHEBI:17196
+intersection_of: part_of GO:0005623
+
+[Term]
+id: UPHENO:GO0005623-CHEBI17203
+name: cell L-proline
+intersection_of: CHEBI:17203
+intersection_of: part_of GO:0005623
+
+[Term]
+id: UPHENO:GO0005623-CHEBI17895
+name: cell L-tyrosine
+intersection_of: CHEBI:17895
+intersection_of: part_of GO:0005623
+
+[Term]
+id: UPHENO:GO0005623-CHEBI18019
+name: cell L-lysine
+intersection_of: CHEBI:18019
+intersection_of: part_of GO:0005623
+
+[Term]
+id: UPHENO:GO0005623-CHEBI18050
+name: cell L-glutamine
+intersection_of: CHEBI:18050
+intersection_of: part_of GO:0005623
+
+[Term]
+id: UPHENO:GO0005623-CHEBI26271
+name: cell proline
+intersection_of: CHEBI:26271
+intersection_of: part_of GO:0005623
+
+[Term]
+id: UPHENO:GO0005623-CHEBI27922
+name: cell sorbose
+intersection_of: CHEBI:27922
+intersection_of: part_of GO:0005623
+
+[Term]
+id: UPHENO:GO0005623-CHEBI29101
+name: cell sodium(1+)
+intersection_of: CHEBI:29101
+intersection_of: part_of GO:0005623
+
+[Term]
+id: UPHENO:GO0005623-CHEBI29985
+name: cell L-glutamate(1-)
+intersection_of: CHEBI:29985
+intersection_of: part_of GO:0005623
+
+[Term]
+id: UPHENO:GO0005634-CHEBI17843
+name: nucleus transfer RNA
+intersection_of: CHEBI:17843
+intersection_of: part_of GO:0005634
+
+[Term]
+id: UPHENO:GO0005634-CHEBI18111
+name: nucleus ribosomal RNA
+intersection_of: CHEBI:18111
+intersection_of: part_of GO:0005634
+
+[Term]
+id: UPHENO:GO0005634-CHEBI33697
+name: nucleus ribonucleic acid
+intersection_of: CHEBI:33697
+intersection_of: part_of GO:0005634
+
+[Term]
+id: UPHENO:GO0005634-CHEBI33699
+name: nucleus messenger RNA
+intersection_of: CHEBI:33699
+intersection_of: part_of GO:0005634
+
+[Term]
+id: UPHENO:GO0005634-GO0005665
+name: nucleus DNA-directed RNA polymerase II, core complex
+intersection_of: GO:0005665
+intersection_of: part_of GO:0005634
+
+[Term]
+id: UPHENO:GO0005634-GO0005666
+name: nucleus DNA-directed RNA polymerase III complex
+intersection_of: GO:0005666
+intersection_of: part_of GO:0005634
+
+[Term]
+id: UPHENO:GO0005634-GO0005839
+name: nucleus proteasome core complex
+intersection_of: GO:0005839
+intersection_of: part_of GO:0005634
+
+[Term]
+id: UPHENO:GO0005634-GO0015934
+name: nucleus large ribosomal subunit
+intersection_of: GO:0015934
+intersection_of: part_of GO:0005634
+
+[Term]
+id: UPHENO:GO0005634-GO0015935
+name: nucleus small ribosomal subunit
+intersection_of: GO:0015935
+intersection_of: part_of GO:0005634
+
+[Term]
+id: UPHENO:GO0005634-GO0030529
+name: nucleus intracellular ribonucleoprotein complex
+intersection_of: GO:0030529
+intersection_of: part_of GO:0005634
+
+[Term]
+id: UPHENO:GO0005634-GO0030532
+name: nucleus small nuclear ribonucleoprotein complex
+intersection_of: GO:0030532
+intersection_of: part_of GO:0005634
+
+[Term]
+id: UPHENO:GO0005634-GO0044391
+name: nucleus ribosomal subunit
+intersection_of: GO:0044391
+intersection_of: part_of GO:0005634
+
+[Term]
+id: UPHENO:GO0005634-GO0071159
+name: nucleus NF-kappaB complex
+intersection_of: GO:0071159
+intersection_of: part_of GO:0005634
+
+[Term]
+id: UPHENO:GO0005634-PR000000001
+name: nucleus protein
+intersection_of: PR:000000001
+intersection_of: part_of GO:0005634
+
+[Term]
+id: UPHENO:GO0005737-CHEBI15956
+name: cytoplasm biotin
+intersection_of: CHEBI:15956
+intersection_of: part_of GO:0005737
+
+[Term]
+id: UPHENO:GO0005737-CHEBI16708
+name: cytoplasm adenine
+intersection_of: CHEBI:16708
+intersection_of: part_of GO:0005737
+
+[Term]
+id: UPHENO:GO0005737-CHEBI33709
+name: cytoplasm amino acid
+intersection_of: CHEBI:33709
+intersection_of: part_of GO:0005737
+
+[Term]
+id: UPHENO:GO0005739-CHEBI17843
+name: mitochondrion transfer RNA
+intersection_of: CHEBI:17843
+intersection_of: part_of GO:0005739
+
+[Term]
+id: UPHENO:GO0005739-CHEBI18111
+name: mitochondrion ribosomal RNA
+intersection_of: CHEBI:18111
+intersection_of: part_of GO:0005739
+
+[Term]
+id: UPHENO:GO0005739-CHEBI25676
+name: mitochondrion oligopeptide
+intersection_of: CHEBI:25676
+intersection_of: part_of GO:0005739
+
+[Term]
+id: UPHENO:GO0005739-CHEBI27470
+name: mitochondrion folic acid
+intersection_of: CHEBI:27470
+intersection_of: part_of GO:0005739
+
+[Term]
+id: UPHENO:GO0005739-CHEBI33697
+name: mitochondrion ribonucleic acid
+intersection_of: CHEBI:33697
+intersection_of: part_of GO:0005739
+
+[Term]
+id: UPHENO:GO0005739-CHEBI39123
+name: mitochondrion calcium cation
+intersection_of: CHEBI:39123
+intersection_of: part_of GO:0005739
+
+[Term]
+id: UPHENO:GO0005739-CHEBI39128
+name: mitochondrion magnesium ion
+intersection_of: CHEBI:39128
+intersection_of: part_of GO:0005739
+
+[Term]
+id: UPHENO:GO0005758-CHEBI26441
+name: mitochondrial intermembrane space pyrimidine nucleotide
+intersection_of: CHEBI:26441
+intersection_of: part_of GO:0005758
+
+[Term]
+id: UPHENO:GO0005773-CHEBI15729
+name: vacuole L-ornithine
+intersection_of: CHEBI:15729
+intersection_of: part_of GO:0005773
+
+[Term]
+id: UPHENO:GO0005773-CHEBI15971
+name: vacuole L-histidine
+intersection_of: CHEBI:15971
+intersection_of: part_of GO:0005773
+
+[Term]
+id: UPHENO:GO0005773-CHEBI16467
+name: vacuole L-arginine
+intersection_of: CHEBI:16467
+intersection_of: part_of GO:0005773
+
+[Term]
+id: UPHENO:GO0005773-CHEBI16856
+name: vacuole glutathione
+intersection_of: CHEBI:16856
+intersection_of: part_of GO:0005773
+
+[Term]
+id: UPHENO:GO0005773-CHEBI17115
+name: vacuole L-serine
+intersection_of: CHEBI:17115
+intersection_of: part_of GO:0005773
+
+[Term]
+id: UPHENO:GO0005773-CHEBI17895
+name: vacuole L-tyrosine
+intersection_of: CHEBI:17895
+intersection_of: part_of GO:0005773
+
+[Term]
+id: UPHENO:GO0005773-CHEBI18019
+name: vacuole L-lysine
+intersection_of: CHEBI:18019
+intersection_of: part_of GO:0005773
+
+[Term]
+id: UPHENO:GO0005773-CHEBI18257
+name: vacuole ornithine
+intersection_of: CHEBI:18257
+intersection_of: part_of GO:0005773
+
+[Term]
+id: UPHENO:GO0005773-CHEBI25094
+name: vacuole lysine
+intersection_of: CHEBI:25094
+intersection_of: part_of GO:0005773
+
+[Term]
+id: UPHENO:GO0005773-CHEBI27570
+name: vacuole histidine
+intersection_of: CHEBI:27570
+intersection_of: part_of GO:0005773
+
+[Term]
+id: UPHENO:GO0005773-CHEBI29016
+name: vacuole arginine
+intersection_of: CHEBI:29016
+intersection_of: part_of GO:0005773
+
+[Term]
+id: UPHENO:GO0005773-CHEBI29987
+name: vacuole glutamate(2-)
+intersection_of: CHEBI:29987
+intersection_of: part_of GO:0005773
+
+[Term]
+id: UPHENO:GO0005773-CHEBI29988
+name: vacuole L-glutamate(2-)
+intersection_of: CHEBI:29988
+intersection_of: part_of GO:0005773
+
+[Term]
+id: UPHENO:GO0005773-CHEBI29993
+name: vacuole L-aspartate(2-)
+intersection_of: CHEBI:29993
+intersection_of: part_of GO:0005773
+
+[Term]
+id: UPHENO:GO0005773-CHEBI29995
+name: vacuole aspartate(2-)
+intersection_of: CHEBI:29995
+intersection_of: part_of GO:0005773
+
+[Term]
+id: UPHENO:GO0005773-CHEBI33709
+name: vacuole amino acid
+intersection_of: CHEBI:33709
+intersection_of: part_of GO:0005773
+
+[Term]
+id: UPHENO:GO0005773-CHEBI36264
+name: vacuole molybdate
+intersection_of: CHEBI:36264
+intersection_of: part_of GO:0005773
+
+[Term]
+id: UPHENO:GO0005773-CHEBI60836
+name: vacuole phytochelatin
+intersection_of: CHEBI:60836
+intersection_of: part_of GO:0005773
+
+[Term]
+id: UPHENO:GO0005773-CHEBI63063
+name: vacuole cadmium cation
+intersection_of: CHEBI:63063
+intersection_of: part_of GO:0005773
+
+[Term]
+id: UPHENO:GO0005773-CHEBI64744
+name: vacuole phytochelatin 2
+intersection_of: CHEBI:64744
+intersection_of: part_of GO:0005773
+
+[Term]
+id: UPHENO:GO0005773-CHEBI64745
+name: vacuole phytochelatin 3
+intersection_of: CHEBI:64745
+intersection_of: part_of GO:0005773
+
+[Term]
+id: UPHENO:GO0005773-CHEBI64747
+name: vacuole phytochelatin 4
+intersection_of: CHEBI:64747
+intersection_of: part_of GO:0005773
+
+[Term]
+id: UPHENO:GO0005775-CHEBI22653
+name: vacuolar lumen asparagine
+intersection_of: CHEBI:22653
+intersection_of: part_of GO:0005775
+
+[Term]
+id: UPHENO:GO0005783-CHEBI64608
+name: endoplasmic reticulum GDP-fucose
+intersection_of: CHEBI:64608
+intersection_of: part_of GO:0005783
+
+[Term]
+id: UPHENO:GO0005794-CHEBI29105
+name: Golgi apparatus zinc(2+)
+intersection_of: CHEBI:29105
+intersection_of: part_of GO:0005794
+
+[Term]
+id: UPHENO:GO0005794-CHEBI39123
+name: Golgi apparatus calcium cation
+intersection_of: CHEBI:39123
+intersection_of: part_of GO:0005794
+
+[Term]
+id: UPHENO:GO0005796-CHEBI18021
+name: Golgi lumen phosphoenolpyruvate
+intersection_of: CHEBI:18021
+intersection_of: part_of GO:0005796
+
+[Term]
+id: UPHENO:GO0005796-CHEBI18307
+name: Golgi lumen UDP-D-galactose
+intersection_of: CHEBI:18307
+intersection_of: part_of GO:0005796
+
+[Term]
+id: UPHENO:GO0005796-CHEBI64608
+name: Golgi lumen GDP-fucose
+intersection_of: CHEBI:64608
+intersection_of: part_of GO:0005796
+
+[Term]
+id: UPHENO:GO0005829-CHEBI15595
+name: cytosol malate(2-)
+intersection_of: CHEBI:15595
+intersection_of: part_of GO:0005829
+
+[Term]
+id: UPHENO:GO0005829-CHEBI15729
+name: cytosol L-ornithine
+intersection_of: CHEBI:15729
+intersection_of: part_of GO:0005829
+
+[Term]
+id: UPHENO:GO0005829-CHEBI16235
+name: cytosol guanine
+intersection_of: CHEBI:16235
+intersection_of: part_of GO:0005829
+
+[Term]
+id: UPHENO:GO0005829-CHEBI16454
+name: cytosol pantothenate
+intersection_of: CHEBI:16454
+intersection_of: part_of GO:0005829
+
+[Term]
+id: UPHENO:GO0005829-CHEBI16467
+name: cytosol L-arginine
+intersection_of: CHEBI:16467
+intersection_of: part_of GO:0005829
+
+[Term]
+id: UPHENO:GO0005829-CHEBI16646
+name: cytosol carbohydrate
+intersection_of: CHEBI:16646
+intersection_of: part_of GO:0005829
+
+[Term]
+id: UPHENO:GO0005829-CHEBI16708
+name: cytosol adenine
+intersection_of: CHEBI:16708
+intersection_of: part_of GO:0005829
+
+[Term]
+id: UPHENO:GO0005829-CHEBI16828
+name: cytosol L-tryptophan
+intersection_of: CHEBI:16828
+intersection_of: part_of GO:0005829
+
+[Term]
+id: UPHENO:GO0005829-CHEBI16856
+name: cytosol glutathione
+intersection_of: CHEBI:16856
+intersection_of: part_of GO:0005829
+
+[Term]
+id: UPHENO:GO0005829-CHEBI16977
+name: cytosol L-alanine
+intersection_of: CHEBI:16977
+intersection_of: part_of GO:0005829
+
+[Term]
+id: UPHENO:GO0005829-CHEBI17203
+name: cytosol L-proline
+intersection_of: CHEBI:17203
+intersection_of: part_of GO:0005829
+
+[Term]
+id: UPHENO:GO0005829-CHEBI17234
+name: cytosol glucose
+intersection_of: CHEBI:17234
+intersection_of: part_of GO:0005829
+
+[Term]
+id: UPHENO:GO0005829-CHEBI17268
+name: cytosol myo-inositol
+intersection_of: CHEBI:17268
+intersection_of: part_of GO:0005829
+
+[Term]
+id: UPHENO:GO0005829-CHEBI17568
+name: cytosol uracil
+intersection_of: CHEBI:17568
+intersection_of: part_of GO:0005829
+
+[Term]
+id: UPHENO:GO0005829-CHEBI17822
+name: cytosol serine
+intersection_of: CHEBI:17822
+intersection_of: part_of GO:0005829
+
+[Term]
+id: UPHENO:GO0005829-CHEBI18019
+name: cytosol L-lysine
+intersection_of: CHEBI:18019
+intersection_of: part_of GO:0005829
+
+[Term]
+id: UPHENO:GO0005829-CHEBI23378
+name: cytosol copper cation
+intersection_of: CHEBI:23378
+intersection_of: part_of GO:0005829
+
+[Term]
+id: UPHENO:GO0005829-CHEBI24875
+name: cytosol iron cation
+intersection_of: CHEBI:24875
+intersection_of: part_of GO:0005829
+
+[Term]
+id: UPHENO:GO0005829-CHEBI25017
+name: cytosol leucine
+intersection_of: CHEBI:25017
+intersection_of: part_of GO:0005829
+
+[Term]
+id: UPHENO:GO0005829-CHEBI25516
+name: cytosol nickel cation
+intersection_of: CHEBI:25516
+intersection_of: part_of GO:0005829
+
+[Term]
+id: UPHENO:GO0005829-CHEBI28757
+name: cytosol fructose
+intersection_of: CHEBI:28757
+intersection_of: part_of GO:0005829
+
+[Term]
+id: UPHENO:GO0005829-CHEBI29033
+name: cytosol iron(2+)
+intersection_of: CHEBI:29033
+intersection_of: part_of GO:0005829
+
+[Term]
+id: UPHENO:GO0005829-CHEBI29034
+name: cytosol iron(3+)
+intersection_of: CHEBI:29034
+intersection_of: part_of GO:0005829
+
+[Term]
+id: UPHENO:GO0005829-CHEBI29101
+name: cytosol sodium(1+)
+intersection_of: CHEBI:29101
+intersection_of: part_of GO:0005829
+
+[Term]
+id: UPHENO:GO0005829-CHEBI29103
+name: cytosol potassium(1+)
+intersection_of: CHEBI:29103
+intersection_of: part_of GO:0005829
+
+[Term]
+id: UPHENO:GO0005829-CHEBI29988
+name: cytosol L-glutamate(2-)
+intersection_of: CHEBI:29988
+intersection_of: part_of GO:0005829
+
+[Term]
+id: UPHENO:GO0005829-CHEBI30031
+name: cytosol succinate(2-)
+intersection_of: CHEBI:30031
+intersection_of: part_of GO:0005829
+
+[Term]
+id: UPHENO:GO0005829-CHEBI30413
+name: cytosol heme
+intersection_of: CHEBI:30413
+intersection_of: part_of GO:0005829
+
+[Term]
+id: UPHENO:GO0005829-CHEBI30794
+name: cytosol malonic acid
+intersection_of: CHEBI:30794
+intersection_of: part_of GO:0005829
+
+[Term]
+id: UPHENO:GO0005829-CHEBI33709
+name: cytosol amino acid
+intersection_of: CHEBI:33709
+intersection_of: part_of GO:0005829
+
+[Term]
+id: UPHENO:GO0005829-CHEBI39123
+name: cytosol calcium cation
+intersection_of: CHEBI:39123
+intersection_of: part_of GO:0005829
+
+[Term]
+id: UPHENO:GO0006404-PATO0000911
+name: RNA import into nucleus decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:0006404
+
+[Term]
+id: UPHENO:GO0006404-PATO0000912
+name: RNA import into nucleus increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0006404
+
+[Term]
+id: UPHENO:GO0006405-PATO0000911
+name: RNA export from nucleus decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:0006405
+
+[Term]
+id: UPHENO:GO0006405-PATO0000912
+name: RNA export from nucleus increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0006405
+
+[Term]
+id: UPHENO:GO0006406-PATO0000911
+name: mRNA export from nucleus decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:0006406
+
+[Term]
+id: UPHENO:GO0006406-PATO0000912
+name: mRNA export from nucleus increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0006406
+
+[Term]
+id: UPHENO:GO0006407-PATO0000911
+name: rRNA export from nucleus decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:0006407
+
+[Term]
+id: UPHENO:GO0006407-PATO0000912
+name: rRNA export from nucleus increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0006407
+
+[Term]
+id: UPHENO:GO0006409-PATO0000911
+name: tRNA export from nucleus decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:0006409
+
+[Term]
+id: UPHENO:GO0006409-PATO0000912
+name: tRNA export from nucleus increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0006409
+
+[Term]
+id: UPHENO:GO0006606-PATO0000911
+name: protein import into nucleus decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:0006606
+
+[Term]
+id: UPHENO:GO0006606-PATO0000912
+name: protein import into nucleus increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0006606
+
+[Term]
+id: UPHENO:GO0006608-PATO0000911
+name: snRNP protein import into nucleus decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:0006608
+
+[Term]
+id: UPHENO:GO0006608-PATO0000912
+name: snRNP protein import into nucleus increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0006608
+
+[Term]
+id: UPHENO:GO0006610-PATO0000911
+name: ribosomal protein import into nucleus decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:0006610
+
+[Term]
+id: UPHENO:GO0006610-PATO0000912
+name: ribosomal protein import into nucleus increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0006610
+
+[Term]
+id: UPHENO:GO0006611-PATO0000911
+name: protein export from nucleus decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:0006611
+
+[Term]
+id: UPHENO:GO0006611-PATO0000912
+name: protein export from nucleus increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0006611
+
+[Term]
+id: UPHENO:GO0009290-PATO0000911
+name: DNA import into cell involved in transformation decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:0009290
+
+[Term]
+id: UPHENO:GO0009290-PATO0000912
+name: DNA import into cell involved in transformation increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0009290
+
+[Term]
+id: UPHENO:GO0015722-PATO0000911
+name: canalicular bile acid transport decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:0015722
+
+[Term]
+id: UPHENO:GO0015722-PATO0000912
+name: canalicular bile acid transport increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0015722
+
+[Term]
+id: UPHENO:GO0015842-PATO0000911
+name: aminergic neurotransmitter loading into synaptic vesicle decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:0015842
+
+[Term]
+id: UPHENO:GO0015842-PATO0000912
+name: aminergic neurotransmitter loading into synaptic vesicle increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0015842
+
+[Term]
+id: UPHENO:GO0016031-PATO0000911
+name: tRNA import into mitochondrion decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:0016031
+
+[Term]
+id: UPHENO:GO0016031-PATO0000912
+name: tRNA import into mitochondrion increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0016031
+
+[Term]
+id: UPHENO:GO0016529-CHEBI39123
+name: sarcoplasmic reticulum calcium cation
+intersection_of: CHEBI:39123
+intersection_of: part_of GO:0016529
+
+[Term]
+id: UPHENO:GO0019090-PATO0000911
+name: mitochondrial rRNA export from mitochondrion decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:0019090
+
+[Term]
+id: UPHENO:GO0019090-PATO0000912
+name: mitochondrial rRNA export from mitochondrion increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0019090
+
+[Term]
+id: UPHENO:GO0032974-PATO0000911
+name: amino acid transmembrane export from vacuole decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:0032974
+
+[Term]
+id: UPHENO:GO0032974-PATO0000912
+name: amino acid transmembrane export from vacuole increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0032974
+
+[Term]
+id: UPHENO:GO0034488-PATO0000911
+name: basic amino acid transmembrane export from vacuole decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:0034488
+
+[Term]
+id: UPHENO:GO0034488-PATO0000912
+name: basic amino acid transmembrane export from vacuole increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0034488
+
+[Term]
+id: UPHENO:GO0034490-PATO0000911
+name: basic amino acid transmembrane import into vacuole decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:0034490
+
+[Term]
+id: UPHENO:GO0034490-PATO0000912
+name: basic amino acid transmembrane import into vacuole increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0034490
+
+[Term]
+id: UPHENO:GO0034592-CHEBI32952
+name: synaptic vesicle lumen amine
+intersection_of: CHEBI:32952
+intersection_of: part_of GO:0034592
+
+[Term]
+id: UPHENO:GO0035719-PATO0000911
+name: tRNA import into nucleus decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:0035719
+
+[Term]
+id: UPHENO:GO0035719-PATO0000912
+name: tRNA import into nucleus increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0035719
+
+[Term]
+id: UPHENO:GO0035927-PATO0000911
+name: RNA import into mitochondrion decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:0035927
+
+[Term]
+id: UPHENO:GO0035927-PATO0000912
+name: RNA import into mitochondrion increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0035927
+
+[Term]
+id: UPHENO:GO0035928-PATO0000911
+name: rRNA import into mitochondrion decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:0035928
+
+[Term]
+id: UPHENO:GO0035928-PATO0000912
+name: rRNA import into mitochondrion increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0035928
+
+[Term]
+id: UPHENO:GO0036084-PATO0000911
+name: GDP-fucose import into endoplasmic reticulum lumen decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:0036084
+
+[Term]
+id: UPHENO:GO0036084-PATO0000912
+name: GDP-fucose import into endoplasmic reticulum lumen increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0036084
+
+[Term]
+id: UPHENO:GO0036085-PATO0000911
+name: GDP-fucose import into Golgi lumen decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:0036085
+
+[Term]
+id: UPHENO:GO0036085-PATO0000912
+name: GDP-fucose import into Golgi lumen increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0036085
+
+[Term]
+id: UPHENO:GO0036246-PATO0000911
+name: phytochelatin 2 import into vacuole decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:0036246
+
+[Term]
+id: UPHENO:GO0036246-PATO0000912
+name: phytochelatin 2 import into vacuole increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0036246
+
+[Term]
+id: UPHENO:GO0036247-PATO0000911
+name: phytochelatin 3 import into vacuole decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:0036247
+
+[Term]
+id: UPHENO:GO0036247-PATO0000912
+name: phytochelatin 3 import into vacuole increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0036247
+
+[Term]
+id: UPHENO:GO0036248-PATO0000911
+name: phytochelatin 4 import into vacuole decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:0036248
+
+[Term]
+id: UPHENO:GO0036248-PATO0000912
+name: phytochelatin 4 import into vacuole increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0036248
+
+[Term]
+id: UPHENO:GO0036249-PATO0000911
+name: cadmium ion import into vacuole decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:0036249
+
+[Term]
+id: UPHENO:GO0036249-PATO0000912
+name: cadmium ion import into vacuole increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0036249
+
+[Term]
+id: UPHENO:GO0036347-PATO0000911
+name: glutathione import into cell decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:0036347
+
+[Term]
+id: UPHENO:GO0036347-PATO0000912
+name: glutathione import into cell increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0036347
+
+[Term]
+id: UPHENO:GO0036376-PATO0000911
+name: sodium ion export from cell decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:0036376
+
+[Term]
+id: UPHENO:GO0036376-PATO0000912
+name: sodium ion export from cell increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0036376
+
+[Term]
+id: UPHENO:GO0036444-PATO0000911
+name: calcium ion transmembrane import into mitochondrion decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:0036444
+
+[Term]
+id: UPHENO:GO0036444-PATO0000912
+name: calcium ion transmembrane import into mitochondrion increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0036444
+
+[Term]
+id: UPHENO:GO0042348-PATO0000911
+name: NF-kappaB import into nucleus decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:0042348
+
+[Term]
+id: UPHENO:GO0042348-PATO0000912
+name: NF-kappaB import into nucleus increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0042348
+
+[Term]
+id: UPHENO:GO0044376-PATO0000911
+name: RNA polymerase II complex import to nucleus decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:0044376
+
+[Term]
+id: UPHENO:GO0044376-PATO0000912
+name: RNA polymerase II complex import to nucleus increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0044376
+
+[Term]
+id: UPHENO:GO0044755-PATO0000911
+name: pantothenate import into cell decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:0044755
+
+[Term]
+id: UPHENO:GO0044755-PATO0000912
+name: pantothenate import into cell increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0044755
+
+[Term]
+id: UPHENO:GO0044756-PATO0000911
+name: biotin import into cell decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:0044756
+
+[Term]
+id: UPHENO:GO0044756-PATO0000912
+name: biotin import into cell increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0044756
+
+[Term]
+id: UPHENO:GO0044757-PATO0000911
+name: dethiobiotin import into cell decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:0044757
+
+[Term]
+id: UPHENO:GO0044757-PATO0000912
+name: dethiobiotin import into cell increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0044757
+
+[Term]
+id: UPHENO:GO0051583-PATO0000911
+name: dopamine uptake involved in synaptic transmission decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:0051583
+
+[Term]
+id: UPHENO:GO0051583-PATO0000912
+name: dopamine uptake involved in synaptic transmission increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0051583
+
+[Term]
+id: UPHENO:GO0051610-PATO0000911
+name: serotonin uptake decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:0051610
+
+[Term]
+id: UPHENO:GO0051610-PATO0000912
+name: serotonin uptake increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0051610
+
+[Term]
+id: UPHENO:GO0051615-PATO0000911
+name: histamine uptake decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:0051615
+
+[Term]
+id: UPHENO:GO0051615-PATO0000912
+name: histamine uptake increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0051615
+
+[Term]
+id: UPHENO:GO0051620-PATO0000911
+name: norepinephrine uptake decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:0051620
+
+[Term]
+id: UPHENO:GO0051620-PATO0000912
+name: norepinephrine uptake increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0051620
+
+[Term]
+id: UPHENO:GO0051625-PATO0000911
+name: epinephrine uptake decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:0051625
+
+[Term]
+id: UPHENO:GO0051625-PATO0000912
+name: epinephrine uptake increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0051625
+
+[Term]
+id: UPHENO:GO0051630-PATO0000911
+name: acetylcholine uptake decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:0051630
+
+[Term]
+id: UPHENO:GO0051630-PATO0000912
+name: acetylcholine uptake increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0051630
+
+[Term]
+id: UPHENO:GO0051933-PATO0000911
+name: amino acid neurotransmitter reuptake decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:0051933
+
+[Term]
+id: UPHENO:GO0051933-PATO0000912
+name: amino acid neurotransmitter reuptake increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0051933
+
+[Term]
+id: UPHENO:GO0051934-PATO0000911
+name: catecholamine uptake involved in synaptic transmission decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:0051934
+
+[Term]
+id: UPHENO:GO0051934-PATO0000912
+name: catecholamine uptake involved in synaptic transmission increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0051934
+
+[Term]
+id: UPHENO:GO0051935-PATO0000911
+name: glutamate reuptake decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:0051935
+
+[Term]
+id: UPHENO:GO0051935-PATO0000912
+name: glutamate reuptake increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0051935
+
+[Term]
+id: UPHENO:GO0051936-PATO0000911
+name: gamma-aminobutyric acid reuptake decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:0051936
+
+[Term]
+id: UPHENO:GO0051936-PATO0000912
+name: gamma-aminobutyric acid reuptake increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0051936
+
+[Term]
+id: UPHENO:GO0061454-PATO0000911
+name: Golgi calcium ion export decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:0061454
+
+[Term]
+id: UPHENO:GO0061454-PATO0000912
+name: Golgi calcium ion export increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0061454
+
+[Term]
+id: UPHENO:GO0061488-PATO0000911
+name: adenine import into cell decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:0061488
+
+[Term]
+id: UPHENO:GO0061488-PATO0000912
+name: adenine import into cell increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0061488
+
+[Term]
+id: UPHENO:GO0061489-PATO0000911
+name: guanine import into cell decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:0061489
+
+[Term]
+id: UPHENO:GO0061489-PATO0000912
+name: guanine import into cell increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0061489
+
+[Term]
+id: UPHENO:GO0061490-PATO0000911
+name: glucose import into cell decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:0061490
+
+[Term]
+id: UPHENO:GO0061490-PATO0000912
+name: glucose import into cell increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0061490
+
+[Term]
+id: UPHENO:GO0061491-PATO0000911
+name: serine import into cell decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:0061491
+
+[Term]
+id: UPHENO:GO0061491-PATO0000912
+name: serine import into cell increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0061491
+
+[Term]
+id: UPHENO:GO0061716-PATO0000911
+name: miRNA export from nucleus decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:0061716
+
+[Term]
+id: UPHENO:GO0061716-PATO0000912
+name: miRNA export from nucleus increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0061716
+
+[Term]
+id: UPHENO:GO0071167-PATO0000911
+name: ribonucleoprotein complex import into nucleus decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:0071167
+
+[Term]
+id: UPHENO:GO0071167-PATO0000912
+name: ribonucleoprotein complex import into nucleus increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0071167
+
+[Term]
+id: UPHENO:GO0071426-PATO0000911
+name: ribonucleoprotein complex export from nucleus decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:0071426
+
+[Term]
+id: UPHENO:GO0071426-PATO0000912
+name: ribonucleoprotein complex export from nucleus increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0071426
+
+[Term]
+id: UPHENO:GO0071995-PATO0000911
+name: phytochelatin import into vacuole decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:0071995
+
+[Term]
+id: UPHENO:GO0071995-PATO0000912
+name: phytochelatin import into vacuole increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0071995
+
+[Term]
+id: UPHENO:GO0071996-PATO0000911
+name: glutathione transmembrane import into vacuole decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:0071996
+
+[Term]
+id: UPHENO:GO0071996-PATO0000912
+name: glutathione transmembrane import into vacuole increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0071996
+
+[Term]
+id: UPHENO:GO0089703-PATO0000911
+name: L-aspartate transmembrane export from vacuole decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:0089703
+
+[Term]
+id: UPHENO:GO0089703-PATO0000912
+name: L-aspartate transmembrane export from vacuole increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0089703
+
+[Term]
+id: UPHENO:GO0089704-PATO0000911
+name: L-glutamate transmembrane export from vacuole decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:0089704
+
+[Term]
+id: UPHENO:GO0089704-PATO0000912
+name: L-glutamate transmembrane export from vacuole increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0089704
+
+[Term]
+id: UPHENO:GO0089706-PATO0000911
+name: L-ornithine transmembrane export from vacuole decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:0089706
+
+[Term]
+id: UPHENO:GO0089706-PATO0000912
+name: L-ornithine transmembrane export from vacuole increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0089706
+
+[Term]
+id: UPHENO:GO0089707-PATO0000911
+name: L-lysine transmembrane export from vacuole decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:0089707
+
+[Term]
+id: UPHENO:GO0089707-PATO0000912
+name: L-lysine transmembrane export from vacuole increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0089707
+
+[Term]
+id: UPHENO:GO0089708-PATO0000911
+name: L-histidine transmembrane export from vacuole decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:0089708
+
+[Term]
+id: UPHENO:GO0089708-PATO0000912
+name: L-histidine transmembrane export from vacuole increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0089708
+
+[Term]
+id: UPHENO:GO0089718-PATO0000911
+name: amino acid import across plasma membrane decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:0089718
+
+[Term]
+id: UPHENO:GO0089718-PATO0000912
+name: amino acid import across plasma membrane increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0089718
+
+[Term]
+id: UPHENO:GO0090374-PATO0000911
+name: oligopeptide export from mitochondrion decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:0090374
+
+[Term]
+id: UPHENO:GO0090374-PATO0000912
+name: oligopeptide export from mitochondrion increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0090374
+
+[Term]
+id: UPHENO:GO0090414-PATO0000911
+name: molybdate ion export from vacuole decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:0090414
+
+[Term]
+id: UPHENO:GO0090414-PATO0000912
+name: molybdate ion export from vacuole increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0090414
+
+[Term]
+id: UPHENO:GO0090453-PATO0000911
+name: aspartate transmembrane import into vacuole decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:0090453
+
+[Term]
+id: UPHENO:GO0090453-PATO0000912
+name: aspartate transmembrane import into vacuole increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0090453
+
+[Term]
+id: UPHENO:GO0090454-PATO0000911
+name: glutamate transmembrane import into vacuole decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:0090454
+
+[Term]
+id: UPHENO:GO0090454-PATO0000912
+name: glutamate transmembrane import into vacuole increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0090454
+
+[Term]
+id: UPHENO:GO0090455-PATO0000911
+name: ornithine transmembrane import into vacuole decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:0090455
+
+[Term]
+id: UPHENO:GO0090455-PATO0000912
+name: ornithine transmembrane import into vacuole increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0090455
+
+[Term]
+id: UPHENO:GO0090456-PATO0000911
+name: lysine transmembrane import into vacuole decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:0090456
+
+[Term]
+id: UPHENO:GO0090456-PATO0000912
+name: lysine transmembrane import into vacuole increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0090456
+
+[Term]
+id: UPHENO:GO0090457-PATO0000911
+name: histidine transmembrane import into vacuole decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:0090457
+
+[Term]
+id: UPHENO:GO0090457-PATO0000912
+name: histidine transmembrane import into vacuole increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0090457
+
+[Term]
+id: UPHENO:GO0090458-PATO0000911
+name: arginine transmembrane import into vacuole decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:0090458
+
+[Term]
+id: UPHENO:GO0090458-PATO0000912
+name: arginine transmembrane import into vacuole increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0090458
+
+[Term]
+id: UPHENO:GO0090493-PATO0000911
+name: catecholamine uptake decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:0090493
+
+[Term]
+id: UPHENO:GO0090493-PATO0000912
+name: catecholamine uptake increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0090493
+
+[Term]
+id: UPHENO:GO0090494-PATO0000911
+name: dopamine uptake decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:0090494
+
+[Term]
+id: UPHENO:GO0090494-PATO0000912
+name: dopamine uptake increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0090494
+
+[Term]
+id: UPHENO:GO0090509-PATO0000911
+name: nickel cation import into cell decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:0090509
+
+[Term]
+id: UPHENO:GO0090509-PATO0000912
+name: nickel cation import into cell increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0090509
+
+[Term]
+id: UPHENO:GO0090513-PATO0000911
+name: L-histidine transmembrane import into vacuole decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:0090513
+
+[Term]
+id: UPHENO:GO0090513-PATO0000912
+name: L-histidine transmembrane import into vacuole increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0090513
+
+[Term]
+id: UPHENO:GO0090514-PATO0000911
+name: L-tyrosine transmembrane import into vacuole decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:0090514
+
+[Term]
+id: UPHENO:GO0090514-PATO0000912
+name: L-tyrosine transmembrane import into vacuole increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0090514
+
+[Term]
+id: UPHENO:GO0090515-PATO0000911
+name: L-glutamate transmembrane import into vacuole decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:0090515
+
+[Term]
+id: UPHENO:GO0090515-PATO0000912
+name: L-glutamate transmembrane import into vacuole increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0090515
+
+[Term]
+id: UPHENO:GO0090516-PATO0000911
+name: L-serine transmembrane import into vacuole decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:0090516
+
+[Term]
+id: UPHENO:GO0090516-PATO0000912
+name: L-serine transmembrane import into vacuole increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0090516
+
+[Term]
+id: UPHENO:GO0090517-PATO0000911
+name: L-lysine transmembrane import into vacuole decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:0090517
+
+[Term]
+id: UPHENO:GO0090517-PATO0000912
+name: L-lysine transmembrane import into vacuole increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0090517
+
+[Term]
+id: UPHENO:GO0090518-PATO0000911
+name: L-arginine transmembrane import into vacuole decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:0090518
+
+[Term]
+id: UPHENO:GO0090518-PATO0000912
+name: L-arginine transmembrane import into vacuole increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0090518
+
+[Term]
+id: UPHENO:GO0097319-PATO0000911
+name: carbohydrate import into cell decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:0097319
+
+[Term]
+id: UPHENO:GO0097319-PATO0000912
+name: carbohydrate import into cell increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0097319
+
+[Term]
+id: UPHENO:GO0097357-PATO0000911
+name: myo-inositol import into cell decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:0097357
+
+[Term]
+id: UPHENO:GO0097357-PATO0000912
+name: myo-inositol import into cell increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0097357
+
+[Term]
+id: UPHENO:GO0097404-PATO0000911
+name: succinate import into cell decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:0097404
+
+[Term]
+id: UPHENO:GO0097404-PATO0000912
+name: succinate import into cell increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0097404
+
+[Term]
+id: UPHENO:GO0097405-PATO0000911
+name: malate import into cell decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:0097405
+
+[Term]
+id: UPHENO:GO0097405-PATO0000912
+name: malate import into cell increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0097405
+
+[Term]
+id: UPHENO:GO0097406-PATO0000911
+name: malonic acid import into cell decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:0097406
+
+[Term]
+id: UPHENO:GO0097406-PATO0000912
+name: malonic acid import into cell increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0097406
+
+[Term]
+id: UPHENO:GO0097459-PATO0000911
+name: iron ion import into cell decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:0097459
+
+[Term]
+id: UPHENO:GO0097459-PATO0000912
+name: iron ion import into cell increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0097459
+
+[Term]
+id: UPHENO:GO0097460-PATO0000911
+name: ferrous iron import into cell decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:0097460
+
+[Term]
+id: UPHENO:GO0097460-PATO0000912
+name: ferrous iron import into cell increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0097460
+
+[Term]
+id: UPHENO:GO0097461-PATO0000911
+name: ferric iron import into cell decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:0097461
+
+[Term]
+id: UPHENO:GO0097461-PATO0000912
+name: ferric iron import into cell increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0097461
+
+[Term]
+id: UPHENO:GO0097623-PATO0000911
+name: potassium ion export across plasma membrane decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:0097623
+
+[Term]
+id: UPHENO:GO0097623-PATO0000912
+name: potassium ion export across plasma membrane increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0097623
+
+[Term]
+id: UPHENO:GO0097624-PATO0000911
+name: UDP-galactose transmembrane import into Golgi lumen decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:0097624
+
+[Term]
+id: UPHENO:GO0097624-PATO0000912
+name: UDP-galactose transmembrane import into Golgi lumen increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0097624
+
+[Term]
+id: UPHENO:GO0097638-PATO0000911
+name: L-arginine import across plasma membrane decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:0097638
+
+[Term]
+id: UPHENO:GO0097638-PATO0000912
+name: L-arginine import across plasma membrane increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0097638
+
+[Term]
+id: UPHENO:GO0097639-PATO0000911
+name: L-lysine import across plasma membrane decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:0097639
+
+[Term]
+id: UPHENO:GO0097639-PATO0000912
+name: L-lysine import across plasma membrane increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0097639
+
+[Term]
+id: UPHENO:GO0097640-PATO0000911
+name: L-ornithine import across plasma membrane decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:0097640
+
+[Term]
+id: UPHENO:GO0097640-PATO0000912
+name: L-ornithine import across plasma membrane increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0097640
+
+[Term]
+id: UPHENO:GO0098658-PATO0000911
+name: inorganic anion import into cell decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:0098658
+
+[Term]
+id: UPHENO:GO0098658-PATO0000912
+name: inorganic anion import into cell increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0098658
+
+[Term]
+id: UPHENO:GO0098659-PATO0000911
+name: inorganic cation import into cell decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:0098659
+
+[Term]
+id: UPHENO:GO0098659-PATO0000912
+name: inorganic cation import into cell increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0098659
+
+[Term]
+id: UPHENO:GO0098700-PATO0000911
+name: neurotransmitter loading into synaptic vesicle decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:0098700
+
+[Term]
+id: UPHENO:GO0098700-PATO0000912
+name: neurotransmitter loading into synaptic vesicle increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0098700
+
+[Term]
+id: UPHENO:GO0098702-PATO0000911
+name: adenine import across plasma membrane decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:0098702
+
+[Term]
+id: UPHENO:GO0098702-PATO0000912
+name: adenine import across plasma membrane increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0098702
+
+[Term]
+id: UPHENO:GO0098704-PATO0000911
+name: carbohydrate import across plasma membrane decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:0098704
+
+[Term]
+id: UPHENO:GO0098704-PATO0000912
+name: carbohydrate import across plasma membrane increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0098704
+
+[Term]
+id: UPHENO:GO0098705-PATO0000911
+name: copper ion import across plasma membrane decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:0098705
+
+[Term]
+id: UPHENO:GO0098705-PATO0000912
+name: copper ion import across plasma membrane increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0098705
+
+[Term]
+id: UPHENO:GO0098706-PATO0000911
+name: ferric iron import across plasma membrane decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:0098706
+
+[Term]
+id: UPHENO:GO0098706-PATO0000912
+name: ferric iron import across plasma membrane increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0098706
+
+[Term]
+id: UPHENO:GO0098707-PATO0000911
+name: ferrous iron import across plasma membrane decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:0098707
+
+[Term]
+id: UPHENO:GO0098707-PATO0000912
+name: ferrous iron import across plasma membrane increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0098707
+
+[Term]
+id: UPHENO:GO0098708-PATO0000911
+name: glucose import across plasma membrane decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:0098708
+
+[Term]
+id: UPHENO:GO0098708-PATO0000912
+name: glucose import across plasma membrane increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0098708
+
+[Term]
+id: UPHENO:GO0098709-PATO0000911
+name: glutathione import across plasma membrane decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:0098709
+
+[Term]
+id: UPHENO:GO0098709-PATO0000912
+name: glutathione import across plasma membrane increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0098709
+
+[Term]
+id: UPHENO:GO0098710-PATO0000911
+name: guanine import across plasma membrane decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:0098710
+
+[Term]
+id: UPHENO:GO0098710-PATO0000912
+name: guanine import across plasma membrane increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0098710
+
+[Term]
+id: UPHENO:GO0098711-PATO0000911
+name: iron ion import across plasma membrane decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:0098711
+
+[Term]
+id: UPHENO:GO0098711-PATO0000912
+name: iron ion import across plasma membrane increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0098711
+
+[Term]
+id: UPHENO:GO0098712-PATO0000911
+name: L-glutamate import across plasma membrane decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:0098712
+
+[Term]
+id: UPHENO:GO0098712-PATO0000912
+name: L-glutamate import across plasma membrane increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0098712
+
+[Term]
+id: UPHENO:GO0098713-PATO0000911
+name: leucine import across plasma membrane decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:0098713
+
+[Term]
+id: UPHENO:GO0098713-PATO0000912
+name: leucine import across plasma membrane increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0098713
+
+[Term]
+id: UPHENO:GO0098714-PATO0000911
+name: malate import across plasma membrane decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:0098714
+
+[Term]
+id: UPHENO:GO0098714-PATO0000912
+name: malate import across plasma membrane increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0098714
+
+[Term]
+id: UPHENO:GO0098715-PATO0000911
+name: malonic acid import across plasma membrane decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:0098715
+
+[Term]
+id: UPHENO:GO0098715-PATO0000912
+name: malonic acid import across plasma membrane increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0098715
+
+[Term]
+id: UPHENO:GO0098716-PATO0000911
+name: nickel cation import across plasma membrane decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:0098716
+
+[Term]
+id: UPHENO:GO0098716-PATO0000912
+name: nickel cation import across plasma membrane increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0098716
+
+[Term]
+id: UPHENO:GO0098717-PATO0000911
+name: pantothenate import across plasma membrane decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:0098717
+
+[Term]
+id: UPHENO:GO0098717-PATO0000912
+name: pantothenate import across plasma membrane increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0098717
+
+[Term]
+id: UPHENO:GO0098718-PATO0000911
+name: serine import across plasma membrane decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:0098718
+
+[Term]
+id: UPHENO:GO0098718-PATO0000912
+name: serine import across plasma membrane increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0098718
+
+[Term]
+id: UPHENO:GO0098719-PATO0000911
+name: sodium ion import across plasma membrane decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:0098719
+
+[Term]
+id: UPHENO:GO0098719-PATO0000912
+name: sodium ion import across plasma membrane increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0098719
+
+[Term]
+id: UPHENO:GO0098720-PATO0000911
+name: succinate import across plasma membrane decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:0098720
+
+[Term]
+id: UPHENO:GO0098720-PATO0000912
+name: succinate import across plasma membrane increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0098720
+
+[Term]
+id: UPHENO:GO0098721-PATO0000911
+name: uracil import across plasma membrane decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:0098721
+
+[Term]
+id: UPHENO:GO0098721-PATO0000912
+name: uracil import across plasma membrane increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0098721
+
+[Term]
+id: UPHENO:GO0098810-PATO0000911
+name: neurotransmitter reuptake decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:0098810
+
+[Term]
+id: UPHENO:GO0098810-PATO0000912
+name: neurotransmitter reuptake increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0098810
+
+[Term]
+id: UPHENO:GO0099523-CHEBI16865
+name: presynaptic cytosol gamma-aminobutyric acid
+intersection_of: CHEBI:16865
+intersection_of: part_of GO:0099523
+
+[Term]
+id: UPHENO:GO0099523-CHEBI18243
+name: presynaptic cytosol dopamine
+intersection_of: CHEBI:18243
+intersection_of: part_of GO:0099523
+
+[Term]
+id: UPHENO:GO0099523-CHEBI28790
+name: presynaptic cytosol serotonin
+intersection_of: CHEBI:28790
+intersection_of: part_of GO:0099523
+
+[Term]
+id: UPHENO:GO0099523-CHEBI29985
+name: presynaptic cytosol L-glutamate(1-)
+intersection_of: CHEBI:29985
+intersection_of: part_of GO:0099523
+
+[Term]
+id: UPHENO:GO0099523-CHEBI33567
+name: presynaptic cytosol catecholamine
+intersection_of: CHEBI:33567
+intersection_of: part_of GO:0099523
+
+[Term]
+id: UPHENO:GO0099523-CHEBI33709
+name: presynaptic cytosol amino acid
+intersection_of: CHEBI:33709
+intersection_of: part_of GO:0099523
+
+[Term]
+id: UPHENO:GO0099587-PATO0000911
+name: inorganic ion import into cell decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:0099587
+
+[Term]
+id: UPHENO:GO0099587-PATO0000912
+name: inorganic ion import into cell increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:0099587
+
+[Term]
+id: UPHENO:GO1902431-PATO0000911
+name: uracil import into cell decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:1902431
+
+[Term]
+id: UPHENO:GO1902431-PATO0000912
+name: uracil import into cell increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:1902431
+
+[Term]
+id: UPHENO:GO1902434-PATO0000911
+name: sulfate import into cell decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:1902434
+
+[Term]
+id: UPHENO:GO1902434-PATO0000912
+name: sulfate import into cell increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:1902434
+
+[Term]
+id: UPHENO:GO1902656-PATO0000911
+name: calcium ion import into cytosol decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:1902656
+
+[Term]
+id: UPHENO:GO1902656-PATO0000912
+name: calcium ion import into cytosol increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:1902656
+
+[Term]
+id: UPHENO:GO1902765-PATO0000911
+name: L-arginine import into cell decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:1902765
+
+[Term]
+id: UPHENO:GO1902765-PATO0000912
+name: L-arginine import into cell increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:1902765
+
+[Term]
+id: UPHENO:GO1902825-PATO0000911
+name: proline import into cell decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:1902825
+
+[Term]
+id: UPHENO:GO1902825-PATO0000912
+name: proline import into cell increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:1902825
+
+[Term]
+id: UPHENO:GO1902837-PATO0000911
+name: amino acid import into cell decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:1902837
+
+[Term]
+id: UPHENO:GO1902837-PATO0000912
+name: amino acid import into cell increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:1902837
+
+[Term]
+id: UPHENO:GO1902861-PATO0000911
+name: copper ion import into cell decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:1902861
+
+[Term]
+id: UPHENO:GO1902861-PATO0000912
+name: copper ion import into cell increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:1902861
+
+[Term]
+id: UPHENO:GO1903075-PATO0000911
+name: pyridoxine import into cell decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:1903075
+
+[Term]
+id: UPHENO:GO1903075-PATO0000912
+name: pyridoxine import into cell increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:1903075
+
+[Term]
+id: UPHENO:GO1903258-PATO0000911
+name: sorbose import into cell decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:1903258
+
+[Term]
+id: UPHENO:GO1903258-PATO0000912
+name: sorbose import into cell increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:1903258
+
+[Term]
+id: UPHENO:GO1903410-PATO0000911
+name: L-lysine import into cell decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:1903410
+
+[Term]
+id: UPHENO:GO1903410-PATO0000912
+name: L-lysine import into cell increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:1903410
+
+[Term]
+id: UPHENO:GO1903411-PATO0000911
+name: L-ornithine import into cell decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:1903411
+
+[Term]
+id: UPHENO:GO1903411-PATO0000912
+name: L-ornithine import into cell increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:1903411
+
+[Term]
+id: UPHENO:GO1903692-PATO0000911
+name: methionine import into cell decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:1903692
+
+[Term]
+id: UPHENO:GO1903692-PATO0000912
+name: methionine import into cell increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:1903692
+
+[Term]
+id: UPHENO:GO1903801-PATO0000911
+name: L-leucine import into cell decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:1903801
+
+[Term]
+id: UPHENO:GO1903801-PATO0000912
+name: L-leucine import into cell increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:1903801
+
+[Term]
+id: UPHENO:GO1903802-PATO0000911
+name: L-glutamate(1-) import into cell decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:1903802
+
+[Term]
+id: UPHENO:GO1903802-PATO0000912
+name: L-glutamate(1-) import into cell increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:1903802
+
+[Term]
+id: UPHENO:GO1903803-PATO0000911
+name: L-glutamine import into cell decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:1903803
+
+[Term]
+id: UPHENO:GO1903803-PATO0000912
+name: L-glutamine import into cell increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:1903803
+
+[Term]
+id: UPHENO:GO1903804-PATO0000911
+name: glycine import into cell decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:1903804
+
+[Term]
+id: UPHENO:GO1903804-PATO0000912
+name: glycine import into cell increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:1903804
+
+[Term]
+id: UPHENO:GO1903805-PATO0000911
+name: L-valine import into cell decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:1903805
+
+[Term]
+id: UPHENO:GO1903805-PATO0000912
+name: L-valine import into cell increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:1903805
+
+[Term]
+id: UPHENO:GO1903806-PATO0000911
+name: L-isoleucine import into cell decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:1903806
+
+[Term]
+id: UPHENO:GO1903806-PATO0000912
+name: L-isoleucine import into cell increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:1903806
+
+[Term]
+id: UPHENO:GO1903807-PATO0000911
+name: L-threonine import into cell decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:1903807
+
+[Term]
+id: UPHENO:GO1903807-PATO0000912
+name: L-threonine import into cell increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:1903807
+
+[Term]
+id: UPHENO:GO1903808-PATO0000911
+name: L-tyrosine import into cell decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:1903808
+
+[Term]
+id: UPHENO:GO1903808-PATO0000912
+name: L-tyrosine import into cell increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:1903808
+
+[Term]
+id: UPHENO:GO1903809-PATO0000911
+name: L-proline import into cell decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:1903809
+
+[Term]
+id: UPHENO:GO1903809-PATO0000912
+name: L-proline import into cell increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:1903809
+
+[Term]
+id: UPHENO:GO1903810-PATO0000911
+name: L-histidine import into cell decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:1903810
+
+[Term]
+id: UPHENO:GO1903810-PATO0000912
+name: L-histidine import into cell increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:1903810
+
+[Term]
+id: UPHENO:GO1903811-PATO0000911
+name: L-asparagine import into cell decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:1903811
+
+[Term]
+id: UPHENO:GO1903811-PATO0000912
+name: L-asparagine import into cell increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:1903811
+
+[Term]
+id: UPHENO:GO1903812-PATO0000911
+name: L-serine import into cell decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:1903812
+
+[Term]
+id: UPHENO:GO1903812-PATO0000912
+name: L-serine import into cell increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:1903812
+
+[Term]
+id: UPHENO:GO1903813-PATO0000911
+name: L-methionine import into cell decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:1903813
+
+[Term]
+id: UPHENO:GO1903813-PATO0000912
+name: L-methionine import into cell increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:1903813
+
+[Term]
+id: UPHENO:GO1904257-PATO0000911
+name: zinc II ion import across Golgi membrane decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:1904257
+
+[Term]
+id: UPHENO:GO1904257-PATO0000912
+name: zinc II ion import across Golgi membrane increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:1904257
+
+[Term]
+id: UPHENO:GO1904271-PATO0000911
+name: L-proline import across plasma membrane decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:1904271
+
+[Term]
+id: UPHENO:GO1904271-PATO0000912
+name: L-proline import across plasma membrane increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:1904271
+
+[Term]
+id: UPHENO:GO1904272-PATO0000911
+name: L-tryptophan import across plasma membrane decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:1904272
+
+[Term]
+id: UPHENO:GO1904272-PATO0000912
+name: L-tryptophan import across plasma membrane increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:1904272
+
+[Term]
+id: UPHENO:GO1904273-PATO0000911
+name: L-alanine import across plasma membrane decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:1904273
+
+[Term]
+id: UPHENO:GO1904273-PATO0000912
+name: L-alanine import across plasma membrane increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:1904273
+
+[Term]
+id: UPHENO:GO1904334-PATO0000911
+name: heme import across plasma membrane decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:1904334
+
+[Term]
+id: UPHENO:GO1904334-PATO0000912
+name: heme import across plasma membrane increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:1904334
+
+[Term]
+id: UPHENO:GO1904447-PATO0000911
+name: folic acid import into cell decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:1904447
+
+[Term]
+id: UPHENO:GO1904447-PATO0000912
+name: folic acid import into cell increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:1904447
+
+[Term]
+id: UPHENO:GO1904679-PATO0000911
+name: myo-inositol import across plasma membrane decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:1904679
+
+[Term]
+id: UPHENO:GO1904679-PATO0000912
+name: myo-inositol import across plasma membrane increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:1904679
+
+[Term]
+id: UPHENO:GO1904947-PATO0000911
+name: folic acid import into mitochondrion decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:1904947
+
+[Term]
+id: UPHENO:GO1904947-PATO0000912
+name: folic acid import into mitochondrion increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:1904947
+
+[Term]
+id: UPHENO:GO1990022-PATO0000911
+name: RNA polymerase III complex localization to nucleus decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:1990022
+
+[Term]
+id: UPHENO:GO1990022-PATO0000912
+name: RNA polymerase III complex localization to nucleus increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:1990022
+
+[Term]
+id: UPHENO:GO1990034-PATO0000911
+name: calcium ion export from cell decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:1990034
+
+[Term]
+id: UPHENO:GO1990034-PATO0000912
+name: calcium ion export from cell increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:1990034
+
+[Term]
+id: UPHENO:GO1990035-PATO0000911
+name: calcium ion import into cell decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:1990035
+
+[Term]
+id: UPHENO:GO1990035-PATO0000912
+name: calcium ion import into cell increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:1990035
+
+[Term]
+id: UPHENO:GO1990036-PATO0000911
+name: calcium ion import into sarcoplasmic reticulum decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:1990036
+
+[Term]
+id: UPHENO:GO1990036-PATO0000912
+name: calcium ion import into sarcoplasmic reticulum increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:1990036
+
+[Term]
+id: UPHENO:GO1990118-PATO0000911
+name: sodium ion import into cell decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:1990118
+
+[Term]
+id: UPHENO:GO1990118-PATO0000912
+name: sodium ion import into cell increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:1990118
+
+[Term]
+id: UPHENO:GO1990122-PATO0000911
+name: leucine import into cell decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:1990122
+
+[Term]
+id: UPHENO:GO1990122-PATO0000912
+name: leucine import into cell increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:1990122
+
+[Term]
+id: UPHENO:GO1990123-PATO0000911
+name: L-glutamate import into cell decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:1990123
+
+[Term]
+id: UPHENO:GO1990123-PATO0000912
+name: L-glutamate import into cell increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:1990123
+
+[Term]
+id: UPHENO:GO1990236-PATO0000911
+name: proteasome core complex import into nucleus decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:1990236
+
+[Term]
+id: UPHENO:GO1990236-PATO0000912
+name: proteasome core complex import into nucleus increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:1990236
+
+[Term]
+id: UPHENO:GO1990519-PATO0000911
+name: mitochondrial pyrimidine nucleotide import decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:1990519
+
+[Term]
+id: UPHENO:GO1990519-PATO0000912
+name: mitochondrial pyrimidine nucleotide import increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:1990519
+
+[Term]
+id: UPHENO:GO1990536-PATO0000911
+name: phosphoenolpyruvate transmembrane import into Golgi lumen decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:1990536
+
+[Term]
+id: UPHENO:GO1990536-PATO0000912
+name: phosphoenolpyruvate transmembrane import into Golgi lumen increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:1990536
+
+[Term]
+id: UPHENO:GO1990539-PATO0000911
+name: fructose import across plasma membrane decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:1990539
+
+[Term]
+id: UPHENO:GO1990539-PATO0000912
+name: fructose import across plasma membrane increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:1990539
+
+[Term]
+id: UPHENO:GO1990591-PATO0000911
+name: asparagine transmembrane import into vacuole decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:1990591
+
+[Term]
+id: UPHENO:GO1990591-PATO0000912
+name: asparagine transmembrane import into vacuole increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:1990591
+
+[Term]
+id: UPHENO:GO1990616-PATO0000911
+name: magnesium ion export from mitochondrion decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:1990616
+
+[Term]
+id: UPHENO:GO1990616-PATO0000912
+name: magnesium ion export from mitochondrion increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:1990616
+
+[Term]
+id: UPHENO:GO1990818-PATO0000911
+name: L-arginine transmembrane export from vacuole decreased rate
+intersection_of: PATO:0000911
+intersection_of: inheres_in GO:1990818
+
+[Term]
+id: UPHENO:GO1990818-PATO0000912
+name: L-arginine transmembrane export from vacuole increased rate
+intersection_of: PATO:0000912
+intersection_of: inheres_in GO:1990818
+
+[Typedef]
+id: causes
+name: causally upstream of or within
+xref: RO:0002418
+
+[Typedef]
+id: inheres_in
+name: inheres in
+xref: RO:0000052
+
